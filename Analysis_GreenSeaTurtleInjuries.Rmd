@@ -7,7 +7,7 @@ output: html_document
 
 ```{r libraries, include=FALSE}
 library(ggplot2)
-library(tidyverse)
+library(tidyverse); theme_set(theme_classic())
 ```
 
 ## R Markdown
@@ -19,13 +19,25 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r data}
 #import data file
 df <- read.csv("GreenSeaTurtleInjuries2019_2023.csv", h=TRUE)
-#check levels of df$Nature
+
+#what data class is injury nature (df$Nature)
+class(df$Nature)
+
+#make it a factor
+df$Nature <- as.factor(df$Nature)
+
+#use levels() to verify it's now a factor with 4 levels
 levels(df$Nature)
+```
+
+```{r colorblind accessible pallet}
+colorBlindPal  <- c("#000000", "#E69F00", "#56B4E9", "#009E73", 
+                       "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 ```
 
 ```{r plotting}
 InjuryNature.plot <- ggplot(data = df, aes(Nature))+
-  geom_bar()
+  geom_bar(fill = "#0072B2")
 InjuryNature.plot
 ```
 
