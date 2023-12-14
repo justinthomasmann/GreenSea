@@ -1,72 +1,72 @@
 Name,ID,InjuriesPerTurtle ,Date,CCLmin,CCLmax,BodyPart,InjuryType ,InjuryStage,Nature,SourceLevel2,PhysicalNotes ,Length,Location
-Jernathan ,2338,0,5/24/2023,107.3,107.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Melinda,2345,1,5/29/2023,106.8,107,RRF,Type 1A,Stage 5 (scar),3,Unknown ,,,Juno
-Army ,2346,1,5/30/2023,115.3,115.4,CAR,Type 2A,Stage 5 (scar),1,Boat ,,,Juno
-Muti ,761,0,5/30/2023,98.2,98.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Tooty ,2348,0,5/31/2023,100.9,101.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Analise ,2347,3,5/30/2023,106.1,16.1,CAR,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing,,Juno
-Analise 2,,,,,,RRF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing,,
-Analise 3,,,,,,LRF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing,,
-Kiefer,756,0,6/3/2023,112.5,112.6,N/A,N/A,N/A,4,N/A,,,Juno
-Sage,2353,1,6/4/2023,95.5,96,LRF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing,,
-Alina ,2351,1,6/3/2023,106.1,106.1,CAR,Type 2,Stage 5 (scar),3,Unknown ,1-24% missing,,
-Sarga,2354,2,6/4/2023,95.9,96,LRF,Type 1A,Stage 5 (scar),3,Unknown ,1-24% missing ,,Juno
-Sarga 2,,,,,,RRF,Type 1A,Stage 5 (scar),3,Unknown ,1-24% missing ,,
-Jernathan ,2338,0,6/6/2023,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Mint ,2359,0,6/8/2023,100.3,100.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Beyonce,2360,0,6/9/2023,101.8,102.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Solange ,2361,0,6/10/2023,109,110,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Lucie,2066,0,6/10/2023,110,113.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Nicola ,734,0,6/11/2023,96.8,96.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Carrot ,2363,0,6/10/2023,105,106,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Copper,2364,1,6/11/2023,103,103.4,RFF,Type 1,Stage 5 (scar),2,Shark,1-24% missing,,Juno
-Olgi ,2366,0,6/13/2023,102.9,103.6,N/A,N/A,N/A,4,N/A,,,Juno
-Eleven,2365,0,13-Jun,114.4,114.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Moss,2369,0,6/15/2020,100.6,100.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-R2D2,2370,0,6/16/2020,104.1,104.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Brieanna,755,0,6/21/2023,106.8,107.2,N/A,N/A,N/A,4,N/A,extra lat scute,,Juno
-Frank ,2371,0,6/21/2023,100.4,101.2,N/A,N/A,N/A,4,N/A,,,Juno
-SBS,2372,1,6/21/2023,109.1,109.5,CAR,Type 2A,Stage 1( fresh),1,Boat ,"pieces hanging off, bleeding 1-24 % missing",,
-Bamboo ,2374,2,6/22/2023,103.2,104,CAR,Type 2A,Stage 5 (scar),1,Boat ,1-24% missing,,Juno
-Bamboo 2,,,,,,CAR,Type 1,Stage 5 (scar),2,Shark,1-24% missing ,,
-La Derrius ,2343,0,6/21/2023,102,102.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Chartreuse,2377,0,6/22/2023,110,110.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Lucky ,2376,1,6/22/2023,107.1,107.4,RRF,Type 1,Stage 5 (scar),2,Shark,1-24% missing,,Juno
-Pesto ,2378,0,6/22/2023,103.2,103.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Wayne ,713,0,7/10/2023,110.9,111.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Malachite ,2398,1,7/5/2023,100.2,100.6,LRF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing ,,Juno
-Spearmint ,2394,0,7/5/2023,101.4,102,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Spring ,2395,0,7/5/2023,98.4,98.9,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Seaweed,2396,1,7/5/2023,98.5,99,LRF,Type 1A,Stage 5 (scar),2,Shark,25-50% missing,,Juno
-Agave,2397,2,7/6/2023,102.9,102.9,CAR,Type 2,Stage 5 (scar),1,Fishing ,1-24% missing ,,Juno
-Agave 2,,,,,,LRF,Type 1A,Stage 5 (scar),3,Unknown ,76-100% missing,,
-Cocount,2398,3,7/6/2023,113.3,113.6,LFF,Type 1A,Stage 5 (scar),3,Unknown ,76-100% missing,,Juno
-Cocount 2,,,,,,RFF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing,,
-Cocount 3,,,,,,CAR,Type 2,Stage 5 (scar),2,Shark,1-24% missing,,
-Celadon ,2402,0,7/6/2023,104.3,104.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Alien ,2403,1,7/6/2023,108.4,108.9,CAR,Type 2A,Stage 5 (scar),3,Unknown ,1-24% missing,,Juno
-Mantis ,2405,0,7/8/2023,100.7,100.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Inchworm ,2406,0,7/8/2023,104.7,105.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Scarab ,2407,0,7/8/2023,108.7,109.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Henke,2408,0,7/8/2023,102.2,102.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Absinthe ,2409,1,7/9/2023,103.9,104.5,RRF,Type 1,Stage 5 (scar),2,Shark,1-24% missing,,Jupiter
-Kermita,2410,0,7/9/2023,96.3,97,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Grouch,2411,1,7/9/2023,103.2,109,CAR,Type 2A,Stage 3 (yellow),1,Boat ,1-24% missing,,Juno
-Leaves,2413,0,7/10/2023,104.8,106.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Meparin ,2414,0,7/10/2023,101.7,102.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Kudin ,2415,0,7/11/2023,104.1,104.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Millie ,2416,1,7/12/2023,96.9,97.5,RRF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing,,Juno
-Ella ,2417,0,7/13/2023,103.6,104,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Sadie,2418,0,7/13/2023,106.7,107.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Colton ,2421,0,7/16/2023,106.8,107.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Effed ,2424,3,7/6/2023,103.3,103.7,RRF,Unknown ,,3,,,,Juno
-Effed 2,,,,,,LRF,Unknown ,,3,,,,
-Effed 3,,,,,,CAR,Type 2A,Stage 5 (scar),3,Unknown ,1-24% missing ,,
-Tarragen ,2422,1,7/16/2023,104.2,104.5,LRF,Type 1,Stage 5 (scar),3,Unknown ,1-24% missing ,,Juno
-Christina ,721,1,7/18/2023,109.4,109.6,RRF,Type 1A,Stage 5 (scar),3,Unknown ,1-24% missing ,,Juno
-Diatom ,2425,1,7/18/2023,101.2,101.2,CAR,Type 2A,Stage 5 (scar),1,Boat,1-24% missing,,Juno
-Shiso ,2426,0,7/19/2023,101.5,101.9,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Borealis ,2429,1,7/21/2023,109.8,109.8,CAR,Type 2A,Stage 5 (scar),1,Boat,1-24% missing ,,Jupiter
-Kakari ,2431,0,7/26/2023,107.3,107.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-R2D2 (2),2370,0,8/2/2023,102.9,103.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Thumb,2434,0,8/3/2023,111.2,111.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
+Jernathan ,2338,0,5/24/2023,107.3,107.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Melinda,2345,1,5/29/2023,106.8,107,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,,,Juno
+Army ,2346,1,5/30/2023,115.3,115.4,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat ,,,Juno
+Muti ,761,0,5/30/2023,98.2,98.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Tooty ,2348,0,5/31/2023,100.9,101.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Analise ,2347,3,5/30/2023,106.1,16.1,CAR,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+Analise 2,,,,,,RRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Analise 3,,,,,,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Kiefer,756,0,6/3/2023,112.5,112.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Sage,2353,1,6/4/2023,95.5,96,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Alina ,2351,1,6/3/2023,106.1,106.1,CAR,Type 2,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Sarga,2354,2,6/4/2023,95.9,96,LRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Sarga 2,,,,,,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,
+Jernathan ,2338,0,6/6/2023,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Mint ,2359,0,6/8/2023,100.3,100.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Beyonce,2360,0,6/9/2023,101.8,102.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Solange ,2361,0,6/10/2023,109,110,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Lucie,2066,0,6/10/2023,110,113.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Nicola ,734,0,6/11/2023,96.8,96.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Carrot ,2363,0,6/10/2023,105,106,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Copper,2364,1,6/11/2023,103,103.4,RFF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Juno
+Olgi ,2366,0,6/13/2023,102.9,103.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Eleven,2365,0,13-Jun,114.4,114.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Moss,2369,0,6/15/2020,100.6,100.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+R2D2,2370,0,6/16/2020,104.1,104.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Brieanna,755,0,6/21/2023,106.8,107.2,N/A,N/A,N/A,No Injury,N/A,extra lat scute,,Juno
+Frank ,2371,0,6/21/2023,100.4,101.2,N/A,N/A,N/A,No Injury,N/A,,,Juno
+SBS,2372,1,6/21/2023,109.1,109.5,CAR,Type 2A,Stage 1( fresh),Anthropogenic,Boat ,"pieces hanging off, bleeding 1-24 % missing",,
+Bamboo ,2374,2,6/22/2023,103.2,104,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat ,1-24% missing,,Juno
+Bamboo 2,,,,,,CAR,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing ,,
+La Derrius ,2343,0,6/21/2023,102,102.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Chartreuse,2377,0,6/22/2023,110,110.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Lucky ,2376,1,6/22/2023,107.1,107.4,RRF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Juno
+Pesto ,2378,0,6/22/2023,103.2,103.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Wayne ,713,0,7/10/2023,110.9,111.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Malachite ,2398,1,7/5/2023,100.2,100.6,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Spearmint ,2394,0,7/5/2023,101.4,102,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Spring ,2395,0,7/5/2023,98.4,98.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Seaweed,2396,1,7/5/2023,98.5,99,LRF,Type 1A,Stage 5 (scar),Natural,Shark,25-50% missing,,Juno
+Agave,2397,2,7/6/2023,102.9,102.9,CAR,Type 2,Stage 5 (scar),Anthropogenic,Fishing ,1-24% missing ,,Juno
+Agave 2,,,,,,LRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,76-100% missing,,
+Cocount,2398,3,7/6/2023,113.3,113.6,LFF,Type 1A,Stage 5 (scar),Unknown,Unknown ,76-100% missing,,Juno
+Cocount 2,,,,,,RFF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Cocount 3,,,,,,CAR,Type 2,Stage 5 (scar),Natural,Shark,1-24% missing,,
+Celadon ,2402,0,7/6/2023,104.3,104.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Alien ,2403,1,7/6/2023,108.4,108.9,CAR,Type 2A,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+Mantis ,2405,0,7/8/2023,100.7,100.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Inchworm ,2406,0,7/8/2023,104.7,105.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Scarab ,2407,0,7/8/2023,108.7,109.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Henke,2408,0,7/8/2023,102.2,102.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Absinthe ,2409,1,7/9/2023,103.9,104.5,RRF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Jupiter
+Kermita,2410,0,7/9/2023,96.3,97,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Grouch,2411,1,7/9/2023,103.2,109,CAR,Type 2A,Stage 3 (yellow),Anthropogenic,Boat ,1-24% missing,,Juno
+Leaves,2413,0,7/10/2023,104.8,106.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Meparin ,2414,0,7/10/2023,101.7,102.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Kudin ,2415,0,7/11/2023,104.1,104.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Millie ,2416,1,7/12/2023,96.9,97.5,RRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+Ella ,2417,0,7/13/2023,103.6,104,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Sadie,2418,0,7/13/2023,106.7,107.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Colton ,2421,0,7/16/2023,106.8,107.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Effed ,2424,3,7/6/2023,103.3,103.7,RRF,Unknown ,,Unknown,,,,Juno
+Effed 2,,,,,,LRF,Unknown ,,Unknown,,,,
+Effed 3,,,,,,CAR,Type 2A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,
+Tarragen ,2422,1,7/16/2023,104.2,104.5,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Christina ,721,1,7/18/2023,109.4,109.6,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Diatom ,2425,1,7/18/2023,101.2,101.2,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat,1-24% missing,,Juno
+Shiso ,2426,0,7/19/2023,101.5,101.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Borealis ,2429,1,7/21/2023,109.8,109.8,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat,1-24% missing ,,Jupiter
+Kakari ,2431,0,7/26/2023,107.3,107.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+R2D2 (2),2370,0,8/2/2023,102.9,103.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Thumb,2434,0,8/3/2023,111.2,111.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
