@@ -10,15 +10,14 @@ library(ggplot2)
 library(tidyverse); theme_set(theme_classic())
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r data}
 #import data file
 df <- read.csv("GreenSeaTurtleInjuries2019_2023.csv", h=TRUE)
+
+#filter out duplicates 
+df <- df %>% distinct(ID, .keep_all = TRUE)
 
 #what data class is injury nature (df$Nature)
 class(df$Nature)
@@ -39,5 +38,15 @@ colorBlindPal  <- c("#000000", "#E69F00", "#56B4E9", "#009E73",
 InjuryNature.plot <- ggplot(data = df, aes(Nature))+
   geom_bar(fill = "#0072B2")
 InjuryNature.plot
+```
+
+```{r prop test}
+#Number of Natural injuries
+nat <- length(df$Nature[df$Nature=="Natural"])
+anthro <- length(df$Nature[df$Nature=="Anthropogenic"])
+
+?prop.test
+
+prop.test(anthro, nat+anthro, alternative = "two.sided", conf.level = 0.95)
 ```
 

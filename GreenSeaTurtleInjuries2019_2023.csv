@@ -1,236 +1,225 @@
 Name,ID,InjuriesPerTurtle ,Date,CCLmin,CCLmax,BodyPart,InjuryType ,InjuryStage,Nature,SourceLevel2,PhysicalNotes ,Length,Location
-Beans,1178,0,5/17/2019,114.9,115.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Athena,1187,1,5/29/2019,105,,Carapce,Amputation,Healed/scar,3,,,,Juno
-Broccoli,1189,0,5/30/2019,102.7,103.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Kale,1192,1,6/13/2019,102.5,103.4,Carapace,Depression,Healded/Scar,2,Shark,5% of region missing,,Juno
-Avocado,1225,0,6/21/2019,101.4,101.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Asparagus,1485,0,6/29/2019,,,N/A,N/A,N/A,4,N/A,N/A,,Tequesta
-Pickles,1342,0,7/3/2019,109.2,109.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Argula,1343,0,7/3/2019,102.8,103.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Cucumber,1344,0,7/3/2019,109.7,109.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Artichoke,1461,0,7/11/2019,110.2,111.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Spinach,1463,0,7/11/2019,103.9,104.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Celery,1476,0,7/15/2019,104.3,104.8,N/A,N/A,N/A,4,N/A,N/A,,Jupiter
-Cabbage,1479,0,7/16/2019,104.8,105.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Edamame,1480,0,7/16/2019,104.2,104.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Jalapeno,1514,0,7/18/2019,105.8,105.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Zucchini,1515,0,7/19/2019,98.1,98.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Olive,1516,0,7/19/2019,111.7,112.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Basil,1517,1,7/19/2019,113.4,114,Carapce,Ampuation,Healed/Scar,3,,"20% of region missing, kyphoiss of anterior carapace",,Juno
-Cilantro,1519,0,7/25/2019,101.5,102.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Apple,1520,0,7/25/2019,100,101,N/A,N/A,N/A,4,N/A,N/A,,Juno
-BokChoy,1521,0,7/25/2019,99.7,100.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Watermelon,1524,0,7/25/2019,105.4,106.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Brussel,1522,0,7/26/2019,101.2,101.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Honeydew,1523,0,7/26/2019,101.7,102.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Bay Leaf,1528,0,7/30/2019,103.4,104,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Gabra,1532,0,7/31/2019,105.9,106.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Kiefer,756,0,8/5/2019,112.1,112.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Avoacdo (again),1225,0,8/5/2019,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Endive,1533,0,8/5/2019,105.5,106.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Kiwi,1534,0,8/6/2019,101.5,102,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Sweet Pea,1535,0,8/6/2019,108.1,108.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Leek,1537,0,8/6/2019,106.1,106.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Rosemary,1538,0,8/6/2019,107.6,108.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Parsley,1539,0,8/6/2019,106,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Hudson,1540,0,8/7/2019,102.3,102.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Tomatillo,1542,0,8/7/2019,102.8,103,N/A,N/A,N/A,4,N/A,Justin mention's he hates green sea turtles,,Juno
-Justine,719,1,8/8/2019,113.7,114.5,Right Shoulder/Appendage,Hook,Unknown,1,Fishing Hook,N/A,,Juno
-Olive,1516,0,8/8/2019,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Ballard,1541,1,8/8/2019,106.1,107,N/A,N/A,N/A,2,Mating Scars,Presnece of mating scars on front flippers,,Juno
-Honda,1544,0,8/8/2019,106.4,107,N/A,N/A,N/A,4,N/A,N/A,,Jupiter
-Holly,1545,0,8/9/2019,114,114.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Sprout,1546,0,8/9/2019,109.6,110,N/A,N/A,N/A,4,N/A,vocal,,Juno
-Joey,1547,0,8/12/2019,99.7,101.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Soursop,1079,0,8/13/2019,100.5,100.9,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Georgle,1548,0,8/13/2019,97.1,97.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Pear,1550,0,8/13/2019,110,110,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Lime,1551,0,8/13/2019,101.7,102.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Avocado (x3),1225,1,8/15/2019,101.9,102,Left upper jaw (head/face),Mass,Unknown,3,N/A,3 time seeing this turtle!,,Juno
-Fihito,1552,0,8/15/2019,113.9,114.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Clover,1604,1,5/19/2020,105,105.3,CAR,Depression,Healing (yellow),2,Social/Behavior,,,Juno
-Surge,1606,2,5/24/2020,99.5,100,Head,LAC,Healing (yellow),2,Social/Behavior,,,Juno
-Froggy,1607,0,5/26/2020,106.6,107.2,N/A,N/A,N/A,4,N/A,mating scars,,Juno
-Grass,1608,0,5/27/2020,107.5,108,N/A,N/A,N/A,4,N/A,,,Jupiter
-Gumby,1609,0,5/27/2020,105.8,106.1,N/A,N/A,N/A,4,N/A,,,Juno
-Emerald,1610,1,5/27/2020,106,106,CAR,Unknown,Healed,3,N/A,raised bump in carapace,,Juno
-Verde,942,0,5/30/2020,116.5,116.7,N/A,N/A,N/A,4,N/A,,,Juno
-Grass (again),1608,0,5/31/2020,106.4,106.4,N/A,N/A,N/A,4,N/A,,,Juno
-Shrele,1614,0,6/2/2020,101.4,101.6,N/A,N/A,N/A,4,N/A,,,Juno
-Seafoam,1620,0,6/3/2020,104.5,105.3,N/A,N/A,N/A,4,N/A,mating scars,,Juno
-Tiffany,1625,0,6/5/2020,95.5,95.6,N/A,N/A,N/A,4,N/A,mating scars,,Juno
-Jimmy,1628,1,6/8/2020,99.5,100,"Head, RFF, LFF (front flippers)",LAC,Healing (yelllow),2,Social/Behavior,,,Juno
-Carola,1630,1,6/9/2020,104.7,105,CAR,Unknown,Unknown,3,N/A,,,Juno
-Cheryl,1631,1,6/10/2020,109,109.5,"Head, CAR",Unknown,Unknown,2,Social/Behavior,,,Juno
-Firefly,1634,0,6/10/2020,93,96.2,N/A,N/A,N/A,4,N/A,,,Juno
-Green,931,0,6/11/2020,101,103,N/A,N/A,N/A,4,N/A,,,Juno
-Mastronardi,1635,1,6/12/2020,105.2,106,CAR,DEP,Unknown,2,Social/Behavior,,,Juno
-Uno,1638,4,6/14/2020,115.5,115.9,RFF,AMP,Healed/scar,3,,76-100% missing,,Juno
-Moss,2369,0,6/15/2020,100.6,100.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Terry Anne,1094,0,6/16/2020,103.4,104.8,N/A,N/A,N/A,4,N/A,,,Juno
-Noel,1644,0,6/16/2020,99,99.6,N/A,N/A,N/A,4,N/A,,,Juno
-R2D2,2370,0,6/16/2020,104.1,104.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Cmal,1645,0,6/17/2020,109,109.7,N/A,N/A,N/A,4,N/A,odd scutes,,Juno
-Seafoam (2),1620,1,6/18/2020,,,CAR,LAC,Fresh/not bleeding,1,Boat,boat stirke,,Juno
-Matona,1648,0,6/18/2020,106.6,106.7,N/A,N/A,N/A,4,N/A,mating scars,,Juno
-Froggy (2),1607,0,6/19/2020,104.9,105.6,N/A,N/A,N/A,4,N/A,,,Juno
-Kermit,1650,0,6/19/2020,103.5,103.9,N/A,N/A,N/A,4,N/A,,,Juno
-Peg,1651,1,6/19/2020,99.1,99.2,LRF,AMP,Healed/scar,3,,needed help digging,,Juno
-Ginger,1654,0,6/19/2020,110.3,110.9,N/A,N/A,N/A,4,N/A,,,Juno
-Bleu,1656,0,6/19/2020,98.2,98.7,N/A,N/A,N/A,4,N/A,,,Juno
-Wheezy,1635,0,6/20/2020,108.9,109.4,N/A,N/A,N/A,4,N/A,,,Juno
-Verde (2),942,0,6/22/2020,117,117,N/A,N/A,N/A,4,N/A,mating scars,,Juno
-Yelleauy,1663,1,6/22/2020,114.4,114.4,"RFF, LFF",LAC,Unknown,2,Social/Behavior,mating scars,,Juno
-Yasmine,1669,0,6/22/2020,100.4,101.8,N/A,N/A,N/A,4,N/A,,,Jupiter
-Monticello,1673,1,6/23/2020,123,123.5,CAR,NCH,Unknown,3,,1-24% missing,,Juno
-Itchy,1677,0,6/23/2020,100.4,100,N/A,N/A,N/A,4,N/A,,,Juno
-Scratchy,1678,0,6/23/2020,84.9,85.7,N/A,N/A,N/A,4,N/A,,,Juno
-Ale,1688,0,6/24/2020,102.3,102.6,N/A,N/A,N/A,4,N/A,,,Juno
-Dew,1694,1,6/24/2020,108.3,109.7,CAR,LAC,Helead/scar,2,Social/Behavior,,,Juno
-Arethra Franklin,1099,0,6/25/2020,112.6,112.9,N/A,N/A,N/A,4,N/A,,,Juno
-Micayla,1696,0,6/26/2020,107.7,108,N/A,N/A,N/A,4,N/A,,,Juno
-Tourmaline,1707,0,6/28/2020,107.6,107,N/A,N/A,N/A,4,N/A,6 lateral scutes (weird shape),,Juno
-Collard,1712,0,6/29/2020,96.3,96.6,N/A,N/A,N/A,4,N/A,,,Juno
-Darrea,1717,0,6/30/2020,115,113.6,N/A,N/A,N/A,4,N/A,,,Juno
-Sapphine,1719,0,6/30/2020,107.7,108.4,N/A,N/A,N/A,4,N/A,,,Juno
-Lazy,1731,1,7/1/2020,101.7,102.2,CAR,LAC,Healing/yellow,2,Social/Behavior,0 % missing,,Juno
-Itchy (2),1677,0,7/2/2020,,,,,,,,,,Juno
-Carola (2),1630,0,7/13/2020,,,,,,4,,,,Juno
-Flo Rida,1748,0,7/13/2020,103.4,103.9,N/A,N/A,N/A,4,N/A,,,Juno
-Patrick,1757,0,7/14/2020,104.7,105,N/A,N/A,N/A,4,N/A,,,Juno
-Parakeet,1766,0,7/15/2020,107.8,108.3,N/A,N/A,N/A,4,N/A,,,Juno
-Froggy (2),1607,0,7/28/2020,105.8,,,,,,,,,Juno
-Ulna,1781,1,7/29/2020,100,100.9,CAR,DEP,Helead/scar,3,Unknown,1-24%,,Juno
-Fletch,930,1,7/30/2020,103.2,103.5,CAR,LAC,Healing/yellow,2,Social/Behavior,,,Juno
-Shamrock,1784,1,7/30/2020,109,109,CAR,LAC,Healing/yellow,2,Social/Behavior,,,Juno
-Ireland,1785,1,7/30/2020,101.5,102,CAR,LAC,Healing/yellow,2,Social/Behavior,,,Juno
-Crayola,1797,1,8/4/2020,107.5,107.9,CAR,LAC,Healed/scar,2,Social/Behavior,1-24% missing,,Juno
-Ulrikke,1788,1,8/5/2020,104.4,104.8,Head/CAR,LAC,Healing/yellow,2,Social/Behavior,Leeches in eyes,,Juno
-Netta,1789,0,8/5/2020,97.1,97.7,N/A,N/A,N/A,4,N/A,,,Juno
-Aksel,1790,0,8/5/2020,102,102,N/A,N/A,N/A,4,N/A,,,Juno
-Fire Saga,1791,0,8/5/2020,123,123.8,N/A,N/A,N/A,4,N/A,,,Juno
-Conchita,1792,0,8/5/2020,96.5,94.5,N/A,N/A,N/A,4,N/A,,,Juno
-Lordi,1793,0,8/6/2020,97.7,98.4,N/A,N/A,N/A,4,N/A,,,Jupiter
-Loreen,1794,0,8/6/2020,101.7,101.7,N/A,N/A,N/A,4,N/A,,,Jupiter
-Emmelie,1795,0,8/6/2020,103.6,103.6,N/A,N/A,N/A,4,N/A,,,Jupiter
-Jamala,1796,1,8/6/2020,106.7,107,LFF,LAC,Healing,3,Unknown,1-24% missing,,Jupiter
-Kipp,1798,2,8/12/2020,105.1,105.1,LRF,AMP,Helead/scar,3,Unknown,25-50% missing,,Juno
-Zecca,1799,0,8/12/2020,93.4,93.5,N/A,N/A,N/A,4,N/A,,,Juno
-Misty,1800,0,8/12/2020,96.5,97.6,N/A,N/A,N/A,4,N/A,,,Juno
-Daisy,1801,0,8/13/2020,101,102,N/A,N/A,N/A,4,N/A,,,Juno
-Papaya,1802,0,8/13/2020,102.9,103.8,N/A,N/A,N/A,4,N/A,,,Jupiter
-Cauliflower,1963,0,5/27/2021,111.5,111.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Green Bean,1965,0,6/1/2021,110.3,110.6,N/A,N/A,N/A,4,N/A,N/A,,Jupiter
-Jackfruit,1966,0,6/4/2021,117.9,117.9,N/A,N/A,N/A,4,N/A,N/A,,Jupiter
-Sandhat,1979,1,6/21/2021,107.4,107.4,CAR,Type 2,Healed/scar,2,Shark,,,Juno
-Rorraine,1980,0,6/21/2021,113.1,113.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Green Bean (2),1965,0,6/27/2021,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Napa,2001,0,7/1/2021,101.5,101.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Nigel,2025,1,7/7/2021,94.5,95.4,RRF,Type 1A,Healed/scar,3,Unknown,25-50% missing,,Juno
-Allen,2028,0,7/7/2021,103.3,104.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Josie,2031,0,7/8/2021,102,102.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Honeydew,1523,0,7/9/2021,101.2,101.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Corn,2034,0,7/9/2021,116.2,116.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Erin,2035,2,7/9/2021,106,105.2,CAR,Type 2A,Healed/scar,1,Boat,Missing RRF,,Juno
-Jeff,2038,1,7/9/2021,112.2,113.5,RFF,Type 1,Healed/scar,3,Unknown,,,Juno
-Butterhead,2039,1,7/13/2021,,,CAR,Type 2A,Healed/scar,1,Boat,,,Juno
-Moderna,2052,0,7/14/2021,106.5,106.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Vacutanier,2051,0,7/15/2021,108.5,109,N/A,N/A,N/A,4,N/A,,,Jupiter
-Charel,2057,0,7/16/2021,94.4,95,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Fin,2059,0,7/17/2021,103,103.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Pear,1550,0,7/19/2021,,,,,,4,,,,Juno
-Grape,2063,0,7/19/2021,90,90.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Skeeter,2071,0,7/20/2021,109,109.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Savoy,2072,0,7/21/2021,103.1,103.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Dill,2073,1,7/21/2021,107.5,108.5,CAR,Type 2A,Healed/scar,1,Boat,,49.5,Juno
-Jen,2074,0,7/21/2021,103.8,103.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Mary,2076,1,7/22/2021,102,102.5,LRF,Type 1,Healed/scar,3,Unknown,1-24% missing,,Juno
-La,2077,0,7/22/2021,101.8,102.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Christina,721,1,7/27/2021,110.4,110.7,RRF,Type 1,Healed/scar,3,Unknown,1-24% missing,,Juno
-Prik,2083,0,7/27/2021,104.5,105.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Serrano,2084,0,7/27/2021,103.6,103.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Shishito,2086,0,7/28/2021,106.3,106.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Skeeter (2),2071,0,7/29/2021,109.1,110,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Spruce,2092,0,7/29/2021,110.7,110.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Pine,2094,0,7/29/2021,111,111.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Biles,2097,0,8/3/2021,115,115.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-McCallum,2101,3,8/3/2021,95.3,95.5,RRF,Type 1A,Healed/scar,3,Unknown,76-100% missing,,Juno
-Slicer,790,0,8/4/2021,99,99.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Skinner,2098,0,8/4/2021,96.4,96.8,N/A,N/A,N/A,4,N/A,extra scute on CAR,,Juno
-Onion,2103,0,8/5/2021,106.5,106.5,N/A,N/A,N/A,4,N/A,,,Juno
-Rhubarb,2104,0,8/5/2021,99.7,100,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Scallion,2105,0,8/5/2021,106.3,106.5,N/A,N/A,N/A,4,N/A,,,Juno
-Rorraine,1980,0,8/6/2021,113.1,113.1,N/A,N/A,N/A,4,N/A,,,Juno
-Garlic,2107,0,8/6/2021,102,102.5,N/A,N/A,N/A,4,N/A,,,Juno
-Rona,2109,0,8/10/2021,104.8,104.9,N/A,N/A,N/A,4,N/A,,,Juno
-Jade,2110,2,8/11/2021,102.5,107,CAR,Type 2A,Healed/scar,3,Unknown,1-24% missing,,Juno
-Grace,2111,0,8/11/2021,105.3,106,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Rutabaga,2113,0,8/12/2021,107.8,108,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Byeee,2115,0,8/12/2021,103.6,103.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Elvis,2185,0,6/23/2022,103.6,104,N/A,N/A,N/A,4,N/A,N/A,,Juno
-DVM,2191,0,6/25/2022,105.4,105.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Irritant,2200,0,6/29/2022,96.5,96.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Connie,2213,0,6/30/2022,94.7,95.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Trek,2207,0,7/2/2022,98.8,99.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Candy,2212,0,7/3/2022,96.5,96.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Envy,2267,0,7/7/2022,107.5,107.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Erin,2229,0,7/9/2022,99.1,99.9,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Stevie,718,0,7/13/2022,102,102.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Vegetable,2232,2,7/13/2022,97.8,98.3,CAR,Type 2,Healed/Scar,2,Shark,,,Juno
-Tea,2233,0,7/14/2022,105.5,105.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Ivy,2236,1,7/14/2022,103.2,103.2,CAR,Type 2A,Healed/scar,1,Boat,,,Juno
-Bonana,2237,0,7/14/2022,101.8,102.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Nubbin,2238,1,7/14/2022,104.5,104.8,RRF,Type 1A,Healed/scar,2,Shark,,,Juno
-Sandy,2239,0,7/15/2022,110.1,110.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Guava,2240,0,7/15/2022,109.6,110,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Napoli,2243,0,7/16/2022,101.6,102,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Andy,2244,0,7/16/2022,102.2,102.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Forest,2248,0,7/18/2022,94,94.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Pirato,2249,1,7/18/2022,116.8,116.9,LRF,Type 1A,Healed/scar,3,Unknown,76-100%,,Juno
-Cheryl,1631,0,7/20/2022,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Beret,2259,0,7/20/2022,104.6,105.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Gator,2260,0,7/20/2022,106.5,107.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Croc,2261,0,7/20/2022,108.8,108.9,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Grecko,2262,0,7/21/2022,104.5,104.8,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Lizarol,2263,1,7/21/2022,116.9,117,LRF,Type 1,Healed/scar,2,Shark,1-24%,,Juno
-Parakeet,2264,0,7/21/2022,98.2,99,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Iguana,2266,0,7/25/2022,105.1,105.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Rosie,2267,0,7/25/2022,95,99,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Pine,2268,0,7/27/2022,103.2,103.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Toad,2269,0,7/27/2022,102,102.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Peacock,2271,0,7/27/2022,107.4,107.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Jungle,2273,1,7/27/2022,108.5,109.2,RFF/LFF,Unknown,N/A,3,N/A,N/A,,Juno
-Tiny,2274,0,7/28/2022,92,92.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Cactus,2275,0,7/28/2022,103.1,103.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Fern,2276,0,7/28/2022,99,100,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Booger,2277,0,7/28/2022,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Leanna,2278,0,7/28/2022,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Beret,2259,0,7/29/2022,,,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Cilantro,1519,0,8/2/2022,102.9,103.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Lizard,2263,0,8/2/2022,117.3,117.9,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Joan,757,0,8/3/2022,90.9,91.3,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Palm,2285,1,8/3/2022,104.9,105.1,LFF,Type 1,Unknown,3,Unknown,nodule,,Juno
-Monster,2286,0,8/3/2022,104.1,104.6,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Algae,2287,0,8/3/2022,96.7,98.1,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Goop,2288,0,8/3/2022,110.3,111,N/A,N/A,N/A,4,N/A,N/A,,
-Slime,2289,0,8/3/2022,108.4,108.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Muriel,2290,0,8/3/2022,104,104.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Kayballl,1104,0,8/4/2022,102.9,103,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Lantern,2291,0,8/4/2022,100.5,101,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Pistachio,2292,3,8/4/2022,97.4,97.4,CAR,Type 2,Healed/scar,3,Unknown,1-24% missing,,Juno
-Cya,2293,0,8/4/2022,104.9,105.4,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Finale,2295,0,8/4/2022,108.7,109.7,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Arun,2296,1,8/4/2022,105.2,105.5,CAR,Type 2,Healed/scar,3,Unknown,,,Juno
-Jernathan ,2338,0,5/24/2023,107.3,107.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Melinda,2345,1,5/29/2023,106.8,107,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,,,Juno
-Muti ,761,0,5/30/2023,98.2,98.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Justine,719,1,8/8/2019,113.7,114.5,Right Shoulder/Appendage,Hook,Unknown,Anthropogenic,Fishing Hook,N/A,,Juno
+Seafoam (2),1620,1,6/18/2020,,,CAR,LAC,Fresh/not bleeding,Anthropogenic,Boat,boat stirke,,Juno
+Erin,2035,2,7/9/2021,106,105.2,CAR,Type 2A,Healed/scar,Anthropogenic,Boat,Missing RRF,,Juno
+Butterhead,2039,1,7/13/2021,,,CAR,Type 2A,Healed/scar,Anthropogenic,Boat,,,Juno
+Dill,2073,1,7/21/2021,107.5,108.5,CAR,Type 2A,Healed/scar,Anthropogenic,Boat,,49.5,Juno
+Ivy,2236,1,7/14/2022,103.2,103.2,CAR,Type 2A,Healed/scar,Anthropogenic,Boat,,,Juno
 Army ,2346,1,5/30/2023,115.3,115.4,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat ,,,Juno
-Analise ,2347,3,5/30/2023,106.1,16.1,CAR,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+SBS,2372,1,6/21/2023,109.1,109.5,CAR,Type 2A,Stage 1( fresh),Anthropogenic,Boat ,"pieces hanging off, bleeding 1-24 % missing",,
+Bamboo ,2374,2,6/22/2023,103.2,104,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat ,1-24% missing,,Juno
+Agave,2397,2,7/6/2023,102.9,102.9,CAR,Type 2,Stage 5 (scar),Anthropogenic,Fishing ,1-24% missing ,,Juno
+Grouch,2411,1,7/9/2023,103.2,109,CAR,Type 2A,Stage 3 (yellow),Anthropogenic,Boat ,1-24% missing,,Juno
+Diatom ,2425,1,7/18/2023,101.2,101.2,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat,1-24% missing,,Juno
+Borealis ,2429,1,7/21/2023,109.8,109.8,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat,1-24% missing ,,Jupiter
+Uno 3,1638,,,,,CAR,DEP,Healed/scar,Anthropogenic,Fishing.,1-24% missing,,
+Uno 4,1638,,,,,LFF,LAC,Healed/scar,Anthropogenic,Fishing.,,,
+McCallum 3,2101,,,,,CAR,Type 2A,Healed/scar,Anthropogenic,Boat,,,
+Jade 2,2110,,,,,RRF,Type 1A,Healed/scar,Anthropogenic,Fishing,51-75% missing (constriction),,Juno
+Pistachio 3,2292,,,,,CAR,Type 2,Healed/scar,Anthropogenic,Boat,1-24% missing,,
+Kale,1192,1,6/13/2019,102.5,103.4,Carapace,Depression,Healded/Scar,Natural,Shark,5% of region missing,,Juno
+Ballard,1541,1,8/8/2019,106.1,107,N/A,N/A,N/A,Natural,Mating Scars,Presnece of mating scars on front flippers,,Juno
+Clover,1604,1,5/19/2020,105,105.3,CAR,Depression,Healing (yellow),Natural,Social/Behavior,,,Juno
+Surge,1606,2,5/24/2020,99.5,100,Head,LAC,Healing (yellow),Natural,Social/Behavior,,,Juno
+Jimmy,1628,1,6/8/2020,99.5,100,"Head, RFF, LFF (front flippers)",LAC,Healing (yelllow),Natural,Social/Behavior,,,Juno
+Cheryl,1631,1,6/10/2020,109,109.5,"Head, CAR",Unknown,Unknown,Natural,Social/Behavior,,,Juno
+Mastronardi,1635,1,6/12/2020,105.2,106,CAR,DEP,Unknown,Natural,Social/Behavior,,,Juno
+Yelleauy,1663,1,6/22/2020,114.4,114.4,"RFF, LFF",LAC,Unknown,Natural,Social/Behavior,mating scars,,Juno
+Dew,1694,1,6/24/2020,108.3,109.7,CAR,LAC,Helead/scar,Natural,Social/Behavior,,,Juno
+Lazy,1731,1,7/1/2020,101.7,102.2,CAR,LAC,Healing/yellow,Natural,Social/Behavior,0 % missing,,Juno
+Fletch,930,1,7/30/2020,103.2,103.5,CAR,LAC,Healing/yellow,Natural,Social/Behavior,,,Juno
+Shamrock,1784,1,7/30/2020,109,109,CAR,LAC,Healing/yellow,Natural,Social/Behavior,,,Juno
+Ireland,1785,1,7/30/2020,101.5,102,CAR,LAC,Healing/yellow,Natural,Social/Behavior,,,Juno
+Crayola,1797,1,8/4/2020,107.5,107.9,CAR,LAC,Healed/scar,Natural,Social/Behavior,1-24% missing,,Juno
+Ulrikke,1788,1,8/5/2020,104.4,104.8,Head/CAR,LAC,Healing/yellow,Natural,Social/Behavior,Leeches in eyes,,Juno
+Sandhat,1979,1,6/21/2021,107.4,107.4,CAR,Type 2,Healed/scar,Natural,Shark,,,Juno
+Vegetable,2232,2,7/13/2022,97.8,98.3,CAR,Type 2,Healed/Scar,Natural,Shark,,,Juno
+Nubbin,2238,1,7/14/2022,104.5,104.8,RRF,Type 1A,Healed/scar,Natural,Shark,,,Juno
+Lizarol,2263,1,7/21/2022,116.9,117,LRF,Type 1,Healed/scar,Natural,Shark,1-24%,,Juno
+Copper,2364,1,6/11/2023,103,103.4,RFF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Juno
+Lucky ,2376,1,6/22/2023,107.1,107.4,RRF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Juno
+Seaweed,2396,1,7/5/2023,98.5,99,LRF,Type 1A,Stage 5 (scar),Natural,Shark,25-50% missing,,Juno
+Absinthe ,2409,1,7/9/2023,103.9,104.5,RRF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Jupiter
+Kipp 2,1798,,,,,CAR,LAC,Healing,Natural,Social/Behavior,,,
+Bamboo 2,2374,,,,,CAR,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing ,,
+Cocount 3,2398,,,,,CAR,Type 2,Stage 5 (scar),Natural,Shark,1-24% missing,,
+Beans,1178,0,5/17/2019,114.9,115.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Broccoli,1189,0,5/30/2019,102.7,103.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Avocado,1225,0,6/21/2019,101.4,101.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Asparagus,1485,0,6/29/2019,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Tequesta
+Pickles,1342,0,7/3/2019,109.2,109.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Argula,1343,0,7/3/2019,102.8,103.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cucumber,1344,0,7/3/2019,109.7,109.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Artichoke,1461,0,7/11/2019,110.2,111.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Spinach,1463,0,7/11/2019,103.9,104.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Celery,1476,0,7/15/2019,104.3,104.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Jupiter
+Cabbage,1479,0,7/16/2019,104.8,105.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Edamame,1480,0,7/16/2019,104.2,104.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Jalapeno,1514,0,7/18/2019,105.8,105.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Zucchini,1515,0,7/19/2019,98.1,98.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Olive,1516,0,7/19/2019,111.7,112.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cilantro,1519,0,7/25/2019,101.5,102.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Apple,1520,0,7/25/2019,100,101,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+BokChoy,1521,0,7/25/2019,99.7,100.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Watermelon,1524,0,7/25/2019,105.4,106.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Brussel,1522,0,7/26/2019,101.2,101.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Honeydew,1523,0,7/26/2019,101.7,102.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Bay Leaf,1528,0,7/30/2019,103.4,104,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Gabra,1532,0,7/31/2019,105.9,106.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Kiefer,756,0,8/5/2019,112.1,112.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Avoacdo (again),1225,0,8/5/2019,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Endive,1533,0,8/5/2019,105.5,106.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Kiwi,1534,0,8/6/2019,101.5,102,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Sweet Pea,1535,0,8/6/2019,108.1,108.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Leek,1537,0,8/6/2019,106.1,106.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Rosemary,1538,0,8/6/2019,107.6,108.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Parsley,1539,0,8/6/2019,106,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Hudson,1540,0,8/7/2019,102.3,102.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Tomatillo,1542,0,8/7/2019,102.8,103,N/A,N/A,N/A,No Injury,N/A,Justin mention's he hates green sea turtles,,Juno
+Olive,1516,0,8/8/2019,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Honda,1544,0,8/8/2019,106.4,107,N/A,N/A,N/A,No Injury,N/A,N/A,,Jupiter
+Holly,1545,0,8/9/2019,114,114.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Sprout,1546,0,8/9/2019,109.6,110,N/A,N/A,N/A,No Injury,N/A,vocal,,Juno
+Joey,1547,0,8/12/2019,99.7,101.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Soursop,1079,0,8/13/2019,100.5,100.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Georgle,1548,0,8/13/2019,97.1,97.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Pear,1550,0,8/13/2019,110,110,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Lime,1551,0,8/13/2019,101.7,102.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Fihito,1552,0,8/15/2019,113.9,114.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Froggy,1607,0,5/26/2020,106.6,107.2,N/A,N/A,N/A,No Injury,N/A,mating scars,,Juno
+Grass,1608,0,5/27/2020,107.5,108,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Gumby,1609,0,5/27/2020,105.8,106.1,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Verde,942,0,5/30/2020,116.5,116.7,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Grass (again),1608,0,5/31/2020,106.4,106.4,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Shrele,1614,0,6/2/2020,101.4,101.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Seafoam,1620,0,6/3/2020,104.5,105.3,N/A,N/A,N/A,No Injury,N/A,mating scars,,Juno
+Tiffany,1625,0,6/5/2020,95.5,95.6,N/A,N/A,N/A,No Injury,N/A,mating scars,,Juno
+Firefly,1634,0,6/10/2020,93,96.2,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Green,931,0,6/11/2020,101,103,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Moss,2369,0,6/15/2020,100.6,100.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Terry Anne,1094,0,6/16/2020,103.4,104.8,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Noel,1644,0,6/16/2020,99,99.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+R2D2,2370,0,6/16/2020,104.1,104.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cmal,1645,0,6/17/2020,109,109.7,N/A,N/A,N/A,No Injury,N/A,odd scutes,,Juno
+Matona,1648,0,6/18/2020,106.6,106.7,N/A,N/A,N/A,No Injury,N/A,mating scars,,Juno
+Froggy (2),1607,0,6/19/2020,104.9,105.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Kermit,1650,0,6/19/2020,103.5,103.9,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Ginger,1654,0,6/19/2020,110.3,110.9,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Bleu,1656,0,6/19/2020,98.2,98.7,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Wheezy,1635,0,6/20/2020,108.9,109.4,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Verde (2),942,0,6/22/2020,117,117,N/A,N/A,N/A,No Injury,N/A,mating scars,,Juno
+Yasmine,1669,0,6/22/2020,100.4,101.8,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Itchy,1677,0,6/23/2020,100.4,100,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Scratchy,1678,0,6/23/2020,84.9,85.7,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Ale,1688,0,6/24/2020,102.3,102.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Arethra Franklin,1099,0,6/25/2020,112.6,112.9,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Micayla,1696,0,6/26/2020,107.7,108,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Tourmaline,1707,0,6/28/2020,107.6,107,N/A,N/A,N/A,No Injury,N/A,6 lateral scutes (weird shape),,Juno
+Collard,1712,0,6/29/2020,96.3,96.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Darrea,1717,0,6/30/2020,115,113.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Sapphine,1719,0,6/30/2020,107.7,108.4,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Carola (2),1630,0,7/13/2020,,,,,,No Injury,,,,Juno
+Flo Rida,1748,0,7/13/2020,103.4,103.9,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Patrick,1757,0,7/14/2020,104.7,105,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Parakeet,1766,0,7/15/2020,107.8,108.3,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Netta,1789,0,8/5/2020,97.1,97.7,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Aksel,1790,0,8/5/2020,102,102,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Fire Saga,1791,0,8/5/2020,123,123.8,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Conchita,1792,0,8/5/2020,96.5,94.5,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Lordi,1793,0,8/6/2020,97.7,98.4,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Loreen,1794,0,8/6/2020,101.7,101.7,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Emmelie,1795,0,8/6/2020,103.6,103.6,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Zecca,1799,0,8/12/2020,93.4,93.5,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Misty,1800,0,8/12/2020,96.5,97.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Daisy,1801,0,8/13/2020,101,102,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Papaya,1802,0,8/13/2020,102.9,103.8,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Cauliflower,1963,0,5/27/2021,111.5,111.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Green Bean,1965,0,6/1/2021,110.3,110.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Jupiter
+Jackfruit,1966,0,6/4/2021,117.9,117.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Jupiter
+Rorraine,1980,0,6/21/2021,113.1,113.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Green Bean (2),1965,0,6/27/2021,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Napa,2001,0,7/1/2021,101.5,101.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Allen,2028,0,7/7/2021,103.3,104.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Josie,2031,0,7/8/2021,102,102.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Honeydew,1523,0,7/9/2021,101.2,101.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Corn,2034,0,7/9/2021,116.2,116.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Moderna,2052,0,7/14/2021,106.5,106.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Vacutanier,2051,0,7/15/2021,108.5,109,N/A,N/A,N/A,No Injury,N/A,,,Jupiter
+Charel,2057,0,7/16/2021,94.4,95,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Fin,2059,0,7/17/2021,103,103.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Pear,1550,0,7/19/2021,,,,,,No Injury,,,,Juno
+Grape,2063,0,7/19/2021,90,90.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Skeeter,2071,0,7/20/2021,109,109.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Savoy,2072,0,7/21/2021,103.1,103.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Jen,2074,0,7/21/2021,103.8,103.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+La,2077,0,7/22/2021,101.8,102.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Prik,2083,0,7/27/2021,104.5,105.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Serrano,2084,0,7/27/2021,103.6,103.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Shishito,2086,0,7/28/2021,106.3,106.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Skeeter (2),2071,0,7/29/2021,109.1,110,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Spruce,2092,0,7/29/2021,110.7,110.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Pine,2094,0,7/29/2021,111,111.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Biles,2097,0,8/3/2021,115,115.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Slicer,790,0,8/4/2021,99,99.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Skinner,2098,0,8/4/2021,96.4,96.8,N/A,N/A,N/A,No Injury,N/A,extra scute on CAR,,Juno
+Onion,2103,0,8/5/2021,106.5,106.5,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Rhubarb,2104,0,8/5/2021,99.7,100,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Scallion,2105,0,8/5/2021,106.3,106.5,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Rorraine,1980,0,8/6/2021,113.1,113.1,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Garlic,2107,0,8/6/2021,102,102.5,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Rona,2109,0,8/10/2021,104.8,104.9,N/A,N/A,N/A,No Injury,N/A,,,Juno
+Grace,2111,0,8/11/2021,105.3,106,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Rutabaga,2113,0,8/12/2021,107.8,108,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Byeee,2115,0,8/12/2021,103.6,103.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Elvis,2185,0,6/23/2022,103.6,104,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+DVM,2191,0,6/25/2022,105.4,105.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Irritant,2200,0,6/29/2022,96.5,96.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Connie,2213,0,6/30/2022,94.7,95.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Trek,2207,0,7/2/2022,98.8,99.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Candy,2212,0,7/3/2022,96.5,96.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Envy,2267,0,7/7/2022,107.5,107.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Erin,2229,0,7/9/2022,99.1,99.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Stevie,718,0,7/13/2022,102,102.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Tea,2233,0,7/14/2022,105.5,105.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Bonana,2237,0,7/14/2022,101.8,102.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Sandy,2239,0,7/15/2022,110.1,110.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Guava,2240,0,7/15/2022,109.6,110,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Napoli,2243,0,7/16/2022,101.6,102,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Andy,2244,0,7/16/2022,102.2,102.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Forest,2248,0,7/18/2022,94,94.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cheryl,1631,0,7/20/2022,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Beret,2259,0,7/20/2022,104.6,105.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Gator,2260,0,7/20/2022,106.5,107.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Croc,2261,0,7/20/2022,108.8,108.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Grecko,2262,0,7/21/2022,104.5,104.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Parakeet,2264,0,7/21/2022,98.2,99,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Iguana,2266,0,7/25/2022,105.1,105.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Rosie,2267,0,7/25/2022,95,99,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Pine,2268,0,7/27/2022,103.2,103.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Toad,2269,0,7/27/2022,102,102.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Peacock,2271,0,7/27/2022,107.4,107.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Tiny,2274,0,7/28/2022,92,92.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cactus,2275,0,7/28/2022,103.1,103.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Fern,2276,0,7/28/2022,99,100,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Booger,2277,0,7/28/2022,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Leanna,2278,0,7/28/2022,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Beret,2259,0,7/29/2022,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cilantro,1519,0,8/2/2022,102.9,103.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Lizard,2263,0,8/2/2022,117.3,117.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Joan,757,0,8/3/2022,90.9,91.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Monster,2286,0,8/3/2022,104.1,104.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Algae,2287,0,8/3/2022,96.7,98.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Goop,2288,0,8/3/2022,110.3,111,N/A,N/A,N/A,No Injury,N/A,N/A,,
+Slime,2289,0,8/3/2022,108.4,108.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Muriel,2290,0,8/3/2022,104,104.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Kayballl,1104,0,8/4/2022,102.9,103,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Lantern,2291,0,8/4/2022,100.5,101,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Cya,2293,0,8/4/2022,104.9,105.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Finale,2295,0,8/4/2022,108.7,109.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Jernathan ,2338,0,5/24/2023,107.3,107.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Muti ,761,0,5/30/2023,98.2,98.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Tooty ,2348,0,5/31/2023,100.9,101.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Kiefer,756,0,6/3/2023,112.5,112.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
-Alina ,2351,1,6/3/2023,106.1,106.1,CAR,Type 2,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
-Sage,2353,1,6/4/2023,95.5,96,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
-Sarga,2354,2,6/4/2023,95.9,96,LRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
 Jernathan ,2338,0,6/6/2023,,,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Mint ,2359,0,6/8/2023,100.3,100.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Beyonce,2360,0,6/9/2023,101.8,102.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
@@ -238,71 +227,81 @@ Lucie,2066,0,6/10/2023,110,113.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Solange ,2361,0,6/10/2023,109,110,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Carrot ,2363,0,6/10/2023,105,106,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Nicola ,734,0,6/11/2023,96.8,96.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Copper,2364,1,6/11/2023,103,103.4,RFF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Juno
 Eleven,2365,0,6/13/2023,114.4,114.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Olgi ,2366,0,6/13/2023,102.9,103.6,N/A,N/A,N/A,No Injury,N/A,,,Juno
 Brieanna,755,0,6/21/2023,106.8,107.2,N/A,N/A,N/A,No Injury,N/A,extra lat scute,,Juno
 La Derrius ,2343,0,6/21/2023,102,102.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Frank ,2371,0,6/21/2023,100.4,101.2,N/A,N/A,N/A,No Injury,N/A,,,Juno
-SBS,2372,1,6/21/2023,109.1,109.5,CAR,Type 2A,Stage 1( fresh),Anthropogenic,Boat ,"pieces hanging off, bleeding 1-24 % missing",,
-Bamboo ,2374,2,6/22/2023,103.2,104,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat ,1-24% missing,,Juno
-Lucky ,2376,1,6/22/2023,107.1,107.4,RRF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Juno
 Chartreuse,2377,0,6/22/2023,110,110.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Pesto ,2378,0,6/22/2023,103.2,103.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Spearmint ,2394,0,7/5/2023,101.4,102,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Spring ,2395,0,7/5/2023,98.4,98.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Seaweed,2396,1,7/5/2023,98.5,99,LRF,Type 1A,Stage 5 (scar),Natural,Shark,25-50% missing,,Juno
-Malachite ,2398,1,7/5/2023,100.2,100.6,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
-Agave,2397,2,7/6/2023,102.9,102.9,CAR,Type 2,Stage 5 (scar),Anthropogenic,Fishing ,1-24% missing ,,Juno
-Cocount,2398,3,7/6/2023,113.3,113.6,LFF,Type 1A,Stage 5 (scar),Unknown,Unknown ,76-100% missing,,Juno
 Celadon ,2402,0,7/6/2023,104.3,104.6,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Alien ,2403,1,7/6/2023,108.4,108.9,CAR,Type 2A,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
-Effed ,2424,3,7/6/2023,103.3,103.7,RRF,Unknown ,,Unknown,,,,Juno
 Mantis ,2405,0,7/8/2023,100.7,100.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Inchworm ,2406,0,7/8/2023,104.7,105.1,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Scarab ,2407,0,7/8/2023,108.7,109.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Henke,2408,0,7/8/2023,102.2,102.7,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Absinthe ,2409,1,7/9/2023,103.9,104.5,RRF,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing,,Jupiter
 Kermita,2410,0,7/9/2023,96.3,97,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Grouch,2411,1,7/9/2023,103.2,109,CAR,Type 2A,Stage 3 (yellow),Anthropogenic,Boat ,1-24% missing,,Juno
 Wayne ,713,0,7/10/2023,110.9,111.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Leaves,2413,0,7/10/2023,104.8,106.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Meparin ,2414,0,7/10/2023,101.7,102.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Kudin ,2415,0,7/11/2023,104.1,104.4,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Millie ,2416,1,7/12/2023,96.9,97.5,RRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
 Ella ,2417,0,7/13/2023,103.6,104,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Sadie,2418,0,7/13/2023,106.7,107.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Colton ,2421,0,7/16/2023,106.8,107.3,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Tarragen ,2422,1,7/16/2023,104.2,104.5,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
-Christina ,721,1,7/18/2023,109.4,109.6,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
-Diatom ,2425,1,7/18/2023,101.2,101.2,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat,1-24% missing,,Juno
 Shiso ,2426,0,7/19/2023,101.5,101.9,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Borealis ,2429,1,7/21/2023,109.8,109.8,CAR,Type 2A,Stage 5 (scar),Anthropogenic,Boat,1-24% missing ,,Jupiter
-Cat/Oat?,758,0,7/26/2023,105,105.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
+Cat/Oat?,758,0,7/26/2023,105,105.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Kakari ,2431,0,7/26/2023,107.3,107.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Mystery,2272,0,7/27/2023,110,110.2,N/A,N/A,N/A,4,N/A,N/A,,Juno
+Mystery,2272,0,7/27/2023,110,110.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 R2D2 (2),2370,0,8/2/2023,102.9,103.2,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
 Thumb,2434,0,8/3/2023,111.2,111.8,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
-Hubble,1549,0,8/13/2023,105,105.5,N/A,N/A,N/A,4,N/A,N/A,,Juno
-Surge 2,1606,,,,,CAR,LAC,Healing (yellow),,Social/Behavior,,,
-Uno 2,1638,,,,,RRF,AMP,Healed/scar,3,,1-24% missing,,
-Uno 3,1638,,,,,CAR,DEP,Healed/scar,1,Fishing.,1-24% missing,,
-Uno 4,1638,,,,,LFF,LAC,Healed/scar,1,Fishing.,,,
-Kipp 2,1798,,,,,CAR,LAC,Healing,2,Social/Behavior,,,
-Erin 2,2035,,,,,RRF,Type 1A,Healed/scar,3,Unknown,76-100% missing,,Juno
-McCallum 2,2101,,,,,LRF,Type 2A,Healed/scar,3,Unknown,25-50% missing,,
-McCallum 3,2101,,,,,CAR,Type 2A,Healed/scar,1,Boat,,,
-Jade 2,2110,,,,,RRF,Type 1A,Healed/scar,1,Fishing,51-75% missing (constriction),,Juno
-Vegetable 2,2232,,,,,Head,Type 4,Healing/yellow,3-Feb,Unknown,,,
-Muriel (2),2290,0,,,,,,,,,,,
-Pistachio 2,2292,,,,,CAR,Type 2,Healed/scar,3,Unknown,1-24% missing,,
-Pistachio 3,2292,,,,,CAR,Type 2,Healed/scar,1,Boat,1-24% missing,,
+Hubble,1549,0,8/13/2023,105,105.5,N/A,N/A,N/A,No Injury,N/A,N/A,,Juno
+Athena,1187,1,5/29/2019,105,,Carapce,Amputation,Healed/scar,Unknown,,,,Juno
+Basil,1517,1,7/19/2019,113.4,114,Carapce,Ampuation,Healed/Scar,Unknown,,"20% of region missing, kyphoiss of anterior carapace",,Juno
+Avocado (x3),1225,1,8/15/2019,101.9,102,Left upper jaw (head/face),Mass,Unknown,Unknown,N/A,3 time seeing this turtle!,,Juno
+Emerald,1610,1,5/27/2020,106,106,CAR,Unknown,Healed,Unknown,N/A,raised bump in carapace,,Juno
+Carola,1630,1,6/9/2020,104.7,105,CAR,Unknown,Unknown,Unknown,N/A,,,Juno
+Uno,1638,4,6/14/2020,115.5,115.9,RFF,AMP,Healed/scar,Unknown,,76-100% missing,,Juno
+Peg,1651,1,6/19/2020,99.1,99.2,LRF,AMP,Healed/scar,Unknown,,needed help digging,,Juno
+Monticello,1673,1,6/23/2020,123,123.5,CAR,NCH,Unknown,Unknown,,1-24% missing,,Juno
+Ulna,1781,1,7/29/2020,100,100.9,CAR,DEP,Helead/scar,Unknown,Unknown,1-24%,,Juno
+Jamala,1796,1,8/6/2020,106.7,107,LFF,LAC,Healing,Unknown,Unknown,1-24% missing,,Jupiter
+Kipp,1798,2,8/12/2020,105.1,105.1,LRF,AMP,Helead/scar,Unknown,Unknown,25-50% missing,,Juno
+Nigel,2025,1,7/7/2021,94.5,95.4,RRF,Type 1A,Healed/scar,Unknown,Unknown,25-50% missing,,Juno
+Jeff,2038,1,7/9/2021,112.2,113.5,RFF,Type 1,Healed/scar,Unknown,Unknown,,,Juno
+Mary,2076,1,7/22/2021,102,102.5,LRF,Type 1,Healed/scar,Unknown,Unknown,1-24% missing,,Juno
+Christina,721,1,7/27/2021,110.4,110.7,RRF,Type 1,Healed/scar,Unknown,Unknown,1-24% missing,,Juno
+McCallum,2101,3,8/3/2021,95.3,95.5,RRF,Type 1A,Healed/scar,Unknown,Unknown,76-100% missing,,Juno
+Jade,2110,2,8/11/2021,102.5,107,CAR,Type 2A,Healed/scar,Unknown,Unknown,1-24% missing,,Juno
+Pirato,2249,1,7/18/2022,116.8,116.9,LRF,Type 1A,Healed/scar,Unknown,Unknown,76-100%,,Juno
+Jungle,2273,1,7/27/2022,108.5,109.2,RFF/LFF,Unknown,N/A,Unknown,N/A,N/A,,Juno
+Palm,2285,1,8/3/2022,104.9,105.1,LFF,Type 1,Unknown,Unknown,Unknown,nodule,,Juno
+Pistachio,2292,3,8/4/2022,97.4,97.4,CAR,Type 2,Healed/scar,Unknown,Unknown,1-24% missing,,Juno
+Arun,2296,1,8/4/2022,105.2,105.5,CAR,Type 2,Healed/scar,Unknown,Unknown,,,Juno
+Melinda,2345,1,5/29/2023,106.8,107,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,,,Juno
+Analise ,2347,3,5/30/2023,106.1,16.1,CAR,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+Alina ,2351,1,6/3/2023,106.1,106.1,CAR,Type 2,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Sage,2353,1,6/4/2023,95.5,96,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
+Sarga,2354,2,6/4/2023,95.9,96,LRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Malachite ,2398,1,7/5/2023,100.2,100.6,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Cocount,2398,3,7/6/2023,113.3,113.6,LFF,Type 1A,Stage 5 (scar),Unknown,Unknown ,76-100% missing,,Juno
+Alien ,2403,1,7/6/2023,108.4,108.9,CAR,Type 2A,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+Effed ,2424,3,7/6/2023,103.3,103.7,RRF,Unknown ,,Unknown,,,,Juno
+Millie ,2416,1,7/12/2023,96.9,97.5,RRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,Juno
+Tarragen ,2422,1,7/16/2023,104.2,104.5,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Christina ,721,1,7/18/2023,109.4,109.6,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,Juno
+Uno 2,1638,,,,,RRF,AMP,Healed/scar,Unknown,,1-24% missing,,
+Erin 2,2035,,,,,RRF,Type 1A,Healed/scar,Unknown,Unknown,76-100% missing,,Juno
+McCallum 2,2101,,,,,LRF,Type 2A,Healed/scar,Unknown,Unknown,25-50% missing,,
+Pistachio 2,2292,,,,,CAR,Type 2,Healed/scar,Unknown,Unknown,1-24% missing,,
 Analise 2,2347,,,,,RRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
 Analise 3,2347,,,,,LRF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
 Sarga 2,2354,,,,,RRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,
-Bamboo 2,2374,,,,,CAR,Type 1,Stage 5 (scar),Natural,Shark,1-24% missing ,,
 Agave 2,2397,,,,,LRF,Type 1A,Stage 5 (scar),Unknown,Unknown ,76-100% missing,,
 Cocount 2,2398,,,,,RFF,Type 1,Stage 5 (scar),Unknown,Unknown ,1-24% missing,,
-Cocount 3,2398,,,,,CAR,Type 2,Stage 5 (scar),Natural,Shark,1-24% missing,,
 Effed 2,2424,,,,,LRF,Unknown ,,Unknown,,,,
 Effed 3,2424,,,,,CAR,Type 2A,Stage 5 (scar),Unknown,Unknown ,1-24% missing ,,
+Itchy (2),1677,0,7/2/2020,,,,,,,,,,Juno
+Froggy (2),1607,0,7/28/2020,105.8,,,,,,,,,Juno
+Surge 2,1606,,,,,CAR,LAC,Healing (yellow),,Social/Behavior,,,
+Muriel (2),2290,0,,,,,,,,,,,
