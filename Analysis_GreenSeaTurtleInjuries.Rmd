@@ -14,7 +14,7 @@ library(tidyverse); theme_set(theme_classic())
 
 ```{r data}
 #import data file
-df <- read.csv("GreenSeaTurtleInjuries2019_2023.csv", h=TRUE)
+df <- read.csv("GreenSeaTurtlesInjuryData_2019-2023.csv", h=TRUE)
 
 #filter out duplicates 
 df <- df %>% distinct(ID, .keep_all = TRUE)
@@ -46,7 +46,8 @@ nat <- length(df$Nature[df$Nature=="Natural"])
 anthro <- length(df$Nature[df$Nature=="Anthropogenic"])
 
 ?prop.test
-
+anthro
+nat+anthro
 prop.test(anthro, nat+anthro, alternative = "two.sided", conf.level = 0.95)
 ```
 
