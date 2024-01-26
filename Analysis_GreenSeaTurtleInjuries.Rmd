@@ -44,11 +44,14 @@ InjuryNature.plot
 #Number of Natural injuries
 nat <- length(df$Nature[df$Nature=="Natural"])
 anthro <- length(df$Nature[df$Nature=="Anthropogenic"])
+unknown <- length(df$Nature[df$Nature=="Unknown"])
+
 
 ?prop.test
 anthro
-nat+anthro
-prop.test(anthro, nat+anthro, alternative = "two.sided", conf.level = 0.95)
+nat+anthro+unknown
+
+prop.test(anthro, nat+anthro+unknown, alternative = "two.sided", conf.level = 0.95)
 ```
 
 ```{r}
