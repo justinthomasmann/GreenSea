@@ -1,0 +1,309 @@
+Name,ID,InjuriesPerTurtle,Date,CCL min (cm),CCL max (cm),Body Part ,Injury Type ,Injury Stage,Nature,Source
+,,,,,,,,,,
+Beans ,1178,0,5/17/2019,114.9,115.5,NA,NA,NA,4,NA
+Kale,1192,1,6/13/19,102.5,103.4,CAR,DEP,Healded/Scar,2,Shark
+Avocado ,1225,0,6/21/19,101.4,101.5,NA,NA,NA,4,NA
+Athena ,1187,1,5/29/19,105,,CAR,AMP,Healed/scar,3,
+Broccoli,1189,0,5/30/19,102.7,103.1,NA,NA,NA,4,NA
+Pickles,1342,0,7/3/19,109.2,109.2,NA,NA,NA,4,NA
+Argula ,1343,0,7/3/19,102.8,103.3,NA,NA,NA,4,NA
+Cucumber,1344,0,7/3/19,109.7,109.7,NA,NA,NA,4,NA
+Spinach ,1463,0,7/11/19,103.9,104.5,NA,NA,NA,4,NA
+Artichoke ,1461,0,7/11/19,110.2,111.1,NA,NA,NA,4,NA
+Celery ,1476,0,7/15/19,104.3,104.8,NA,NA,NA,4,NA
+Cabbage,1479,0,7/16/19,104.8,105.2,NA,NA,NA,4,NA
+Edamame,1480,0,7/16/19,104.2,104.4,NA,NA,NA,4,NA
+Jalapeno,1514,0,7/18/19,105.8,105.8,NA,NA,NA,4,NA
+Zucchini ,1515,0,7/19/19,98.1,98.6,NA,NA,NA,4,NA
+Olive ,1516,0,7/19/19,111.7,112.1,NA,NA,NA,4,NA
+Basil ,1517,1,7/19/19,113.4,114,CAR,AMP,Healed/Scar,3,
+Asparagus ,1485,0,6/29/19,,,NA,NA,NA,4,NA
+Cilantro ,1519,0,7/25/19,101.5,102.6,NA,NA,NA,4,NA
+Apple ,1520,0,7/25/19,100,101,NA,NA,NA,4,NA
+BokChoy,1521,0,7/25/19,99.7,100.1,NA,NA,NA,4,NA
+Brussel,1522,0,7/26/19,101.2,101.3,NA,NA,NA,4,NA
+Honeydew,1523,0,7/26/19,101.7,102.1,NA,NA,NA,4,NA
+Watermelon,1524,0,7/25/19,105.4,106.6,NA,NA,NA,4,NA
+Cat/Oat?,758,0,7/26,105,105.2,NA,NA,NA,4,NA
+Bay Leaf,1528,0,7/30/19,103.4,104,NA,NA,NA,4,NA
+Gabra,1532,0,7/31/19,105.9,106.7,NA,NA,NA,4,NA
+Avoacdo (again),1225,0,8/5/19,,,NA,NA,NA,4,NA
+Kiefer,756,0,8/5/19,112.1,112.2,NA,NA,NA,4,NA
+Endive,1533,0,8/5/19,105.5,106.8,NA,NA,NA,4,NA
+Kiwi,1534,0,8/6/19,101.5,102,NA,NA,NA,4,NA
+Sweet Pea,1535,0,8/6/19,108.1,108.5,NA,NA,NA,4,NA
+Leek,1537,0,8/6/19,106.1,106.1,NA,NA,NA,4,NA
+Rosemary,1538,0,8/6/19,107.6,108.4,NA,NA,NA,4,NA
+Parsley,1539,0,8/6/19,106,,NA,NA,NA,4,NA
+Justine,719,1,8/8/2019,113.7,114.5,RFF,Hook ,Unknown,1,Hook
+Olive ,1516,0,8/8/19,,,NA,NA,NA,4,NA
+Hudson,1540,0,8/7/19,102.3,102.5,NA,NA,NA,4,NA
+Ballard,1541,1,8/8/19,106.1,107,NA,NA,NA,2,MS
+Tomatillo ,1542,0,8/7/19,102.8,103,NA,NA,NA,4,NA
+Honda,1544,0,8/8/19,106.4,107,NA,NA,NA,4,NA
+Holly,1545,0,8/9/19,114,114.8,NA,NA,NA,4,NA
+Sprout,1546,0,8/9/19,109.6,110,NA,NA,NA,4,NA
+Soursop,1079,0,8/13/19,100.5,100.9,NA,NA,NA,4,NA
+Joey ,1547,0,8/12/19,99.7,101.5,NA,NA,NA,4,NA
+Georgle,1548,0,8/13/19,97.1,97.6,NA,NA,NA,4,NA
+Hubble,1549,0,8/13,105,105.5,NA,NA,NA,4,NA
+Pear,1550,0,8/13/19,110,110,NA,NA,NA,4,NA
+Lime,1551,0,8/13/19,101.7,102.5,NA,NA,NA,4,NA
+Avocado (x3),1225,1,8/15/19,101.9,102,Head,Mass ,Unknown,3,NA
+Fihito ,1552,0,8/15/19,113.9,114.5,NA,NA,NA,4,NA
+Clover,1604,1,5/19/20,105,105.3,CAR,DEP,Healing (yellow),2,Behavioral
+Surge,1606,2,5/24/20,99.5,100,Head,LAC,Healing (yellow),2,Behavioral
+Surge 2,1606,,,,,CAR,LAC,Healing (yellow),,Behavioral
+Froggy,1607,0,5/26/20,106.6,107.2,NA,NA,NA,4,NA
+Grass,1608,0,5/27/20,107.5,108,NA,NA,NA,4,NA
+Gumby,1609,0,5/27/20,105.8,106.1,NA,NA,NA,4,NA
+Emerald,1610,1,5/27/20,106,106,CAR,Unknown,Healed,3,NA
+Verde,942,0,5/30/20,116.5,116.7,NA,NA,NA,4,NA
+Grass (again),1608,0,5/31/20,106.4,106.4,NA,NA,NA,4,NA
+Shrele,1614,0,6/2/20,101.4,101.6,NA,NA,NA,4,NA
+Seafoam,1620,0,6/3/20,104.5,105.3,NA,NA,NA,4,NA
+Tiffany ,1625,0,6/5/20,95.5,95.6,NA,NA,NA,4,NA
+Jimmy,1628,1,6/8/20,99.5,100,MULTI,LAC,Healing (yelllow),2,Behavioral
+Carola,1630,1,6/9/20,104.7,105,CAR,Unknown,Unknown,3,NA
+Cheryl,1631,1,6/10/20,109,109.5,MULTI,Unknown,Unknown,2,Behavioral
+Green,931,0,6/11/20,101,103,NA,NA,NA,4,NA
+Firefly,1634,0,6/10/20,93,96.2,NA,NA,NA,4,NA
+Mastronardi,1635,1,6/12/20,105.2,106,CAR,DEP,Unknown,2,Behavioral
+Uno,1638,4,6/14/20,115.5,115.9,RFF,AMP,Healed/scar,3,
+Uno 2,,,,,,RRF,AMP,Healed/scar,3,
+Uno 3,,,,,,CAR,DEP,Healed/scar,1,FSH
+Uno 4,,,,,,LFF,LAC,Healed/scar,1,FSH
+Terry Anne,1094,0,6/16/20,103.4,104.8,NA,NA,NA,4,NA
+Noel ,1644,0,6/16/20,99,99.6,NA,NA,NA,4,NA
+Cmal ,1645,0,6/17/20,109,109.7,NA,NA,NA,4,NA
+Froggy (2),1607,0,6/19/20,104.9,105.6,NA,NA,NA,4,NA
+Seafoam (2),1620,1,6/18/20,,,CAR,LAC,Fresh/not bleeding,1,Boat
+Matona,1648,0,6/18/20,106.6,106.7,NA,NA,NA,4,NA
+Kermit,1650,0,6/19/20,103.5,103.9,NA,NA,NA,4,NA
+Peg,1651,1,6/19/20,99.1,99.2,LRF,AMP,Healed/scar,3,
+Verde (2),942,0,6/22/20,117,117,NA,NA,NA,4,NA
+Ginger,1654,0,6/19/20,110.3,110.9,NA,NA,NA,4,NA
+Wheezy ,1635,0,6/20/20,108.9,109.4,NA,NA,NA,4,NA
+Bleu,1656,0,6/19/20,98.2,98.7,NA,NA,NA,4,NA
+Yelleauy ,1663,1,6/22/20,114.4,114.4,MULTI,LAC,Unknown,2,Behavioral
+Yasmine ,1669,0,6/22/20,100.4,101.8,NA,NA,NA,4,NA
+Monticello ,1673,1,6/23/20,123,123.5,CAR,NCH,Unknown,3,
+Itchy ,1677,0,6/23/20,100.4,100,NA,NA,NA,4,NA
+Scratchy ,1678,0,6/23/20,84.9,85.7,NA,NA,NA,4,NA
+Ale,1688,0,6/24/20,102.3,102.6,NA,NA,NA,4,NA
+Dew,1694,1,6/24/20,108.3,109.7,CAR,LAC,Helead/scar,2,Behavioral
+Micayla ,1696,0,6/26/20,107.7,108,NA,NA,NA,4,NA
+Arethra Franklin,1099,0,6/25/20,112.6,112.9,NA,NA,NA,4,NA
+Tourmaline,1707,0,6/28/20,107.6,107,NA,NA,NA,4,NA
+Collard,1712,0,6/29/20,96.3,96.6,NA,NA,NA,4,NA
+Darrea,1717,0,6/30/20,115,113.6,NA,NA,NA,4,NA
+Sapphine,1719,0,6/30/20,107.7,108.4,NA,NA,NA,4,NA
+Lazy ,1731,1,7/1/20,101.7,102.2,CAR,LAC,Healing/yellow,2,Behavioral
+Itchy (2),1677,0,7/2/20,,,,,,,
+Flo Rida,1748,0,7/13/20,103.4,103.9,NA,NA,NA,4,NA
+Carola (2),1630,0,7/13/20,,,,,,4,
+Patrick ,1757,0,7/14/20,104.7,105,NA,NA,NA,4,NA
+Parakeet ,1766,0,7/15/20,107.8,108.3,NA,NA,NA,4,NA
+Froggy (2),1607,0,7/28/20,105.8,,,,,,
+Ulna,1781,1,7/29/20,100,100.9,CAR,DEP,Helead/scar,3,Unknown 
+Shamrock ,1784,1,7/30/20,109,109,CAR,LAC,Healing/yellow,2,Behavioral
+Ireland,1785,1,7/30/20,101.5,102,CAR,LAC,Healing/yellow ,2,Behavioral
+Fletch ,930,1,7/30/20,103.2,103.5,CAR,LAC,Healing/yellow,2,Behavioral
+Ulrikke,1788,1,8/5/20,104.4,104.8,MULTI,LAC,Healing/yellow,2,Behavioral
+Netta,1789,0,8/5/20,97.1,97.7,NA,NA,NA,4,NA
+Aksel,1790,0,8/5/20,102,102,NA,NA,NA,4,NA
+Fire Saga,1791,0,8/5/20,123,123.8,NA,NA,NA,4,NA
+Conchita,1792,0,8/5/20,96.5,94.5,NA,NA,NA,4,NA
+Lordi ,1793,0,8/6/20,97.7,98.4,NA,NA,NA,4,NA
+Loreen ,1794,0,8/6/20,101.7,101.7,NA,NA,NA,4,NA
+Emmelie,1795,0,8/6/20,103.6,103.6,NA,NA,NA,4,NA
+Jamala,1796,1,8/6/20,106.7,107,LFF,LAC,Healing ,3,Unknown 
+Crayola ,1797,1,8/4/20,107.5,107.9,CAR,LAC,Healed/scar,2,Behavioral
+Kipp,1798,2,8/12/20,105.1,105.1,LRF,AMP,Helead/scar,3,Unknown 
+Kipp 2,,,,,,CAR,LAC,Healing ,2,Behavioral
+Zecca,1799,0,8/12/20,93.4,93.5,NA,NA,NA,4,NA
+Misty ,1800,0,8/12/20,96.5,97.6,NA,NA,NA,4,NA
+Daisy ,1801,0,8/13/20,101,102,NA,NA,NA,4,NA
+Papaya,1802,0,8/13/20,102.9,103.8,NA,NA,NA,4,NA
+Cauliflower,1963,0,5/27/21,111.5,111.8,NA,NA,NA,4,NA
+Green Bean,1965,0,6/1/21,110.3,110.6,NA,NA,NA,4,NA
+Jackfruit,1966,0,6/4/21,117.9,117.9,NA,NA,NA,4,NA
+Sandhat,1979,1,6/21/21,107.4,107.4,CAR,CAR,Healed/scar,2,Shark
+Rorraine,1980,0,6/21/21,113.1,113.8,NA,NA,NA,4,NA
+Green Bean (2),1965,0,6/27/21,,,NA,NA,NA,4,NA
+Napa,2001,0,7/1/21,101.5,101.7,NA,NA,NA,4,NA
+Nigel,2025,1,7/7/21,94.5,95.4,RRF,AMP,Healed/scar,3,Unknown
+Allen ,2028,0,7/7/21,103.3,104.2,NA,NA,NA,4,NA
+Josie,2031,0,7/8/21,102,102.7,NA,NA,NA,4,NA
+Honeydew,1523,0,7/9/21,101.2,101.8,NA,NA,NA,4,NA
+Corn,2034,0,7/9/21,116.2,116.5,NA,NA,NA,4,NA
+Erin ,2035,2,7/9/21,106,105.2,CAR,LAC,Healed/scar,1,Boat
+Erin 2,,,,,,RRF,AMP,Healed/scar,3,Unknown 
+Jeff,2038,1,7/9/21,112.2,113.5,RFF,FLP,Healed/scar,3,Unknown 
+Butterhead,2039,1,7/13/21,,,CAR,LAC,Healed/scar,1,Boat
+Moderna,2052,0,7/14/21,106.5,106.7,NA,NA,NA,4,NA
+Vacutanier,2051,0,7/15/21,108.5,109,NA,NA,NA,4,NA
+Charel,2057,0,7/16/21,94.4,95,NA,NA,NA,4,NA
+Fin,2059,0,7/17/21,103,103.5,NA,NA,NA,4,NA
+Grape,2063,0,7/19/21,90,90.2,NA,NA,NA,4,NA
+Pear,1550,0,7/19/21,,,,,,4,
+Skeeter,2071,0,7/20/21,109,109.2,NA,NA,NA,4,NA
+Savoy,2072,0,7/21/21,103.1,103.4,NA,NA,NA,4,NA
+Dill,2073,1,7/21/21,107.5,108.5,CAR,LAC,Healed/scar,1,Boat
+Jen ,2074,0,7/21/21,103.8,103.5,NA,NA,NA,4,NA
+Mary ,2076,1,7/22/21,102,102.5,LRF,FLP,Healed/scar,3,Unknown
+La,2077,0,7/22/21,101.8,102.4,NA,NA,NA,4,NA
+Christina,721,1,7/27/21,110.4,110.7,RRF,FLP,Healed/scar,3,Unknown
+Prik ,2083,0,7/27/21,104.5,105.4,NA,NA,NA,4,NA
+Serrano,2084,0,7/27/21,103.6,103.8,NA,NA,NA,4,NA
+Shishito,2086,0,7/28/21,106.3,106.3,NA,NA,NA,4,NA
+Spruce,2092,0,7/29/21,110.7,110.8,NA,NA,NA,4,NA
+Pine ,2094,0,7/29/21,111,111.2,NA,NA,NA,4,NA
+Skeeter (2),2071,0,7/29/21,109.1,110,NA,NA,NA,4,NA
+Biles,2097,0,8/3/21,115,115.3,NA,NA,NA,4,NA
+McCallum,2101,3,8/3/21,95.3,95.5,RRF,AMP,Healed/scar,3,Unknown
+McCallum 2,,,,,,LRF,LAC,Healed/scar,3,Unknown
+McCallum 3,,,,,,CAR,LAC,Healed/scar,1,Boat
+Slicer,790,0,8/4/21,99,99.1,NA,NA,NA,4,NA
+Skinner,2098,0,8/4/21,96.4,96.8,NA,NA,NA,4,NA
+Scallion,2105,0,8/5/21,106.3,106.5,NA,NA,NA,4,NA
+Onion,2103,0,8/5/21,106.5,106.5,NA,NA,NA,4,NA
+Rhubarb,2104,0,8/5/21,99.7,100,NA,NA,NA,4,NA
+Rorraine,1980,0,8/6/21,113.1,113.1,NA,NA,NA,4,NA
+Garlic ,2107,0,8/6/21,102,102.5,NA,NA,NA,4,NA
+Rona,2109,0,8/10/21,104.8,104.9,NA,NA,NA,4,NA
+Jade,2110,2,8/11/21,102.5,107,CAR,LAC,Healed/scar,3,Unknown
+Jade 2,,,,,,RRF,AMP,Healed/scar,1,FSH
+Grace,2111,0,8/11/21,105.3,106,NA,NA,NA,4,NA
+Rutabaga,2113,0,8/12/21,107.8,108,NA,NA,NA,4,NA
+Byeee,2115,0,8/12/21,103.6,103.6,NA,NA,NA,4,NA
+Elvis ,2185,0,6/23/22,103.6,104,NA,NA,NA,4,NA
+DVM,2191,0,6/25/22,105.4,105.7,NA,NA,NA,4,NA
+Irritant,2200,0,6/29/22,96.5,96.7,NA,NA,NA,4,NA
+Trek,2207,0,7/2/22,98.8,99.3,NA,NA,NA,4,NA
+Candy ,2212,0,7/3/22,96.5,96.2,NA,NA,NA,4,NA
+Connie ,2213,0,6/30/22,94.7,95.2,NA,NA,NA,4,NA
+Envy,2267,0,7/7/22,107.5,107.8,NA,NA,NA,4,NA
+Erin ,2229,0,7/9/22,99.1,99.9,NA,NA,NA,4,NA
+Stevie ,718,0,7/13/22,102,102.5,NA,NA,NA,4,NA
+Vegetable ,2232,2,7/13/22,97.8,98.3,CAR,CAR,Healed/Scar,2,Shark
+Vegetable 2,,,,,,Head,Head,Healing/yellow,2/3,Unknown
+Tea,2233,0,7/14/22,105.5,105.8,NA,NA,NA,4,NA
+Ivy ,2236,1,7/14/22,103.2,103.2,CAR,LAC,Healed/scar,1,Boat
+Bonana,2237,0,7/14/22,101.8,102.1,NA,NA,NA,4,NA
+Nubbin ,2238,1,7/14/22,104.5,104.8,RRF,AMP,Healed/scar,2,Shark
+Sandy ,2239,0,7/15/22,110.1,110.4,NA,NA,NA,4,NA
+Guava,2240,0,7/15/22,109.6,110,NA,NA,NA,4,NA
+Napoli ,2243,0,7/16/22,101.6,102,NA,NA,NA,4,NA
+Andy ,2244,0,7/16/22,102.2,102.6,NA,NA,NA,4,NA
+Forest ,2248,0,7/18/22,94,94.1,NA,NA,NA,4,NA
+Pirato,2249,1,7/18/22,116.8,116.9,LRF,AMP,Healed/scar,3,Unknown
+Beret,2259,0,7/20/22,104.6,105.1,NA,NA,NA,4,NA
+Cheryl ,1631,0,7/20/22,,,NA,NA,NA,4,NA
+Gator ,2260,0,7/20/22,106.5,107.1,NA,NA,NA,4,NA
+Croc,2261,0,7/20/22,108.8,108.9,NA,NA,NA,4,NA
+Grecko,2262,0,7/21/22,104.5,104.8,NA,NA,NA,4,NA
+Lizarol ,2263,1,7/21/22,116.9,117,LRF,FLP,Healed/scar,2,Shark
+Parakeet,2264,0,7/21/22,98.2,99,NA,NA,NA,4,NA
+Iguana,2266,0,7/25/22,105.1,105.7,NA,NA,NA,4,NA
+Rosie ,2267,0,7/25/22,95,99,NA,NA,NA,4,NA
+Mystery ,2272,0,7/27,110,110.2,NA,NA,NA,4,NA
+Pine ,2268,0,7/27/22,103.2,103.3,NA,NA,NA,4,NA
+Toad,2269,0,7/27/22,102,102.1,NA,NA,NA,4,NA
+Peacock,2271,0,7/27/22,107.4,107.5,NA,NA,NA,4,NA
+Jungle ,2273,1,7/27/22,108.5,109.2,MULTI,Unknown,NA,3,NA
+Tiny ,2274,0,7/28/22,92,92.3,NA,NA,NA,4,NA
+Beret,2259,0,7/29/22,,,NA,NA,NA,4,NA
+Cactus,2275,0,7/28/22,103.1,103.4,NA,NA,NA,4,NA
+Fern ,2276,0,7/28/22,99,100,NA,NA,NA,4,NA
+Booger,2277,0,7/28/22,,,NA,NA,NA,4,NA
+Leanna,2278,0,7/28/22,,,NA,NA,NA,4,NA
+Kayballl,1104,0,8/4/22,102.9,103,NA,NA,NA,4,NA
+Joan ,757,0,8/3/22,90.9,91.3,NA,NA,NA,4,NA
+Cilantro ,1519,0,8/2/22,102.9,103.4,NA,NA,NA,4,NA
+Lizard ,2263,0,8/2/22,117.3,117.9,NA,NA,NA,4,NA
+Palm ,2285,1,8/3/22,104.9,105.1,LFF,FLP,Unknown ,3,Unknown
+Monster,2286,0,8/3/22,104.1,104.6,NA,NA,NA,4,NA
+Algae,2287,0,8/3/22,96.7,98.1,NA,NA,NA,4,NA
+Goop,2288,0,8/3/22,110.3,111,NA,NA,NA,4,NA
+Slime ,2289,0,8/3/22,108.4,108.5,NA,NA,NA,4,NA
+Muriel,2290,0,8/3/22,104,104.2,NA,NA,NA,4,NA
+Lantern,2291,0,8/4/22,100.5,101,NA,NA,NA,4,NA
+Muriel (2),2290,0,,,,,,,,
+Pistachio ,2292,3,8/4/22,97.4,97.4,CAR,CAR,Healed/scar,3,Unknown
+Pistachio 2,,,,,,CAR,CAR,Healed/scar,3,Unknown
+,,,,,,CAR,CAR,Healed/scar,1,Boat
+Cya,2293,0,8/4/22,104.9,105.4,NA,NA,NA,4,NA
+Finale ,2295,0,8/4/22,108.7,109.7,NA,NA,NA,4,NA
+Arun ,2296,1,8/4/22,105.2,105.5,CAR,CAR,Healed/scar,3,Unknown
+Jernathan ,2338,0,5/24/23,107.3,107.8,NA,NA,NA,4,NA
+Melinda,2345,1,5/29/23,106.8,107,RRF,AMP,Stage 5 (scar),3,Unknown 
+Army ,2346,1,5/30/23,115.3,115.4,CAR,LAC,Stage 5 (scar),1,Boat 
+Muti ,761,0,5/30/23,98.2,98.5,NA,NA,NA,4,NA
+Tooty ,2348,0,5/31/23,100.9,101.2,NA,NA,NA,4,NA
+Analise ,2347,3,5/30/23,106.1,16.1,RFF,FLP,Stage 5 (scar),3,Unknown 
+Analise 2,,,,,,RRF,FLP,Stage 5 (scar),3,Unknown 
+Analise 3,,,,,,LRF,FLP,Stage 5 (scar),3,Unknown 
+Kiefer,756,0,6/3/23,112.5,112.6,NA,NA,NA,4,NA
+Sage,2353,1,6/4/23,95.5,96,LRF,FLP,Stage 5 (scar),3,Unknown 
+Alina ,2351,1,6/3/23,106.1,106.1,CAR,CAR,Stage 5 (scar),3,Unknown 
+Sarga,2354,2,6/4/23,95.9,96,LRF,AMP,Stage 5 (scar),3,Unknown 
+Sarga 2,,,,,,RRF,AMP,Stage 5 (scar),3,Unknown 
+Jernathan ,2338,0,6/6/23,,,NA,NA,NA,4,NA
+Mint ,2359,0,6/8/23,100.3,100.5,NA,NA,NA,4,NA
+Beyonce,2360,0,6/9/23,101.8,102.2,NA,NA,NA,4,NA
+Solange ,2361,0,6/10/23,109,110,NA,NA,NA,4,NA
+Lucie,2066,0,6/10/23,110,113.4,NA,NA,NA,4,NA
+Nicola ,734,0,6/11/23,96.8,96.8,NA,NA,NA,4,NA
+Carrot ,2363,0,6/10/23,105,106,NA,NA,NA,4,NA
+Copper,2364,1,6/11/23,103,103.4,RFF,FLP,Stage 5 (scar),2,Shark
+Olgi ,2366,0,6/13/23,102.9,103.6,NA,NA,NA,4,NA
+Eleven,2365,0,6/13,114.4,114.6,NA,NA,NA,4,NA
+Moss,2369,0,6/15/20,100.6,100.8,NA,NA,NA,4,NA
+R2D2,2370,0,6/16/20,104.1,104.6,NA,NA,NA,4,NA
+Brieanna,755,0,6/21/23,106.8,107.2,NA,NA,NA,4,NA
+Frank ,2371,0,6/21/23,100.4,101.2,NA,NA,NA,4,NA
+SBS,2372,1,6/21/23,109.1,109.5,CAR,LAC,Stage 1( fresh),1,Boat 
+Bamboo ,2374,2,6/22/23,103.2,104,CAR,LAC,Stage 5 (scar),1,Boat 
+Bamboo 2,,,,,,CAR,FLP,Stage 5 (scar),2,Shark
+La Derrius ,2343,0,6/21/23,102,102.7,NA,NA,NA,4,NA
+Chartreuse,2377,0,6/22/23,110,110.2,NA,NA,NA,4,NA
+Lucky ,2376,1,6/22/23,107.1,107.4,RRF,FLP,Stage 5 (scar),2,Shark
+Pesto ,2378,0,6/22/23,103.2,103.8,NA,NA,NA,4,NA
+Wayne ,713,0,7/10/23,110.9,111.3,NA,NA,NA,4,NA
+Malachite ,2398,1,7/5/23,100.2,100.6,LRF,FLP,Stage 5 (scar),3,Unknown 
+Spearmint ,2394,0,7/5/23,101.4,102,NA,NA,NA,4,NA
+Spring ,2395,0,7/5/23,98.4,98.9,NA,NA,NA,4,NA
+Seaweed,2396,1,7/5/23,98.5,99,LRF,AMP,Stage 5 (scar),2,Shark
+Agave,2397,2,7/6/23,102.9,102.9,CAR,CAR,Stage 5 (scar),1,FSH
+Agave 2,,,,,,LRF,AMP,Stage 5 (scar),3,Unknown 
+Cocount,2398,3,7/6/23,113.3,113.6,LFF,AMP,Stage 5 (scar),3,Unknown 
+Cocount 2,,,,,,RFF,FLP,Stage 5 (scar),3,Unknown 
+Cocount 3,,,,,,CAR,CAR,Stage 5 (scar),2,Shark
+Celadon ,2402,0,7/6/23,104.3,104.6,NA,NA,NA,4,NA
+Alien ,2403,1,7/6/23,108.4,108.9,CAR,LAC,Stage 5 (scar),3,Unknown 
+Mantis ,2405,0,7/8/23,100.7,100.7,NA,NA,NA,4,NA
+Inchworm ,2406,0,7/8/23,104.7,105.1,NA,NA,NA,4,NA
+Scarab ,2407,0,7/8/23,108.7,109.2,NA,NA,NA,4,NA
+Henke,2408,0,7/8/23,102.2,102.7,NA,NA,NA,4,NA
+Absinthe ,2409,1,7/9/23,103.9,104.5,RRF,FLP,Stage 5 (scar),2,Shark
+Kermita,2410,0,7/9/23,96.3,97,NA,NA,NA,4,NA
+Grouch,2411,1,7/9/23,103.2,109,CAR,LAC,Stage 3 (yellow),1,Boat 
+Leaves,2413,0,7/10/23,104.8,106.8,NA,NA,NA,4,NA
+Meparin ,2414,0,7/10/23,101.7,102.4,NA,NA,NA,4,NA
+Kudin ,2415,0,7/11/23,104.1,104.4,NA,NA,NA,4,NA
+Millie ,2416,1,7/12/23,96.9,97.5,RRF,FLP,Stage 5 (scar),3,Unknown 
+Ella ,2417,0,7/13/23,103.6,104,NA,NA,NA,4,NA
+Sadie,2418,0,7/13/23,106.7,107.3,NA,NA,NA,4,NA
+Colton ,2421,0,7/16/23,106.8,107.3,NA,NA,NA,4,NA
+Effed ,2424,3,7/6/23,103.3,103.7,RRF,Unknown ,,3,
+Effed 2,,,,,,LRF,Unknown ,,3,
+Effed 3,,,,,,CAR,LAC,Stage 5 (scar),3,Unknown 
+Tarragen ,2422,1,7/16/23,104.2,104.5,LRF,FLP,Stage 5 (scar),3,Unknown 
+Christina ,721,1,7/18/23,109.4,109.6,RRF,AMP,Stage 5 (scar),3,Unknown 
+Diatom ,2425,1,7/18/23,101.2,101.2,CAR,LAC,Stage 5 (scar),1,Boat
+Shiso ,2426,0,7/19/23,101.5,101.9,NA,NA,NA,4,NA
+Borealis ,2429,1,7/21/23,109.8,109.8,CAR,LAC,Stage 5 (scar),1,Boat
+Kakari ,2431,0,7/26/23,107.3,107.5,NA,NA,NA,4,NA
+R2D2 (2),2370,0,8/2/23,102.9,103.2,NA,NA,NA,4,NA
+Thumb,2434,0,8/3/23,111.2,111.8,NA,NA,NA,4,NA
