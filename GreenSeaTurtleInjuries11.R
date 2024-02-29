@@ -6,31 +6,27 @@ date: 02-27-2024
 output: html_document"
 ---
 
-#Attach Data Table:
-attach(GreenSeaTurtleInjuries)
-
-
 #Plot Functions:
-library (ggplot2)
-library (tidyverse); theme_set(theme_classic())
+library(ggplot2)
+library(tidyverse); theme_set(theme_classic())
 
 #Import Data: (called df3)
 df3 <- read.csv("GreenSeaTurtleInjuries.csv", h=TRUE)
 #filter out duplicates:
-df3 <- df3 %>% distinct(ID, keep_all = TRUE)
+df3 <- df3 %>% distinct(ID, .keep_all = TRUE)
 
 #making Nature a factor:
 class(df3$Nature)
 
-df$Nature <- as.factor(df3$Nature)
+df3$Nature <- as.factor(df3$Nature)
 
 #Table for each factor
-NatureTable <- table(Nature)
-BodyPartTable <- table(`Body Part`)
-InjuryTypeTbale <- table(`Injury Type`)
-InjuriesPerTurtleTable <- table(InjuriesPerTurtle)
-InjuryStageTable <- table(`Injury Stage`)
-SourceofInjuryTable <- table(Source)
+NatureTable <- table(df3$Nature)
+BodyPartTable <- table(df3$BodyPart)
+InjuryTypeTbale <- table(df3$InjuryType)
+InjuriesPerTurtleTable <- table(df3$InjuriesPerTurtle)
+InjuryStageTable <- table(df3$InjuryStage)
+SourceofInjuryTable <- table(df3$Source)
 
 #Basic data plots:
 
@@ -60,4 +56,4 @@ InjuriesPerTurtle.plot <- barplot(InjuriesPerTurtleTable)
 
 #Relationships between variables:
 
-#Probabilty and Significane tests:
+#Probability and Significance tests:
