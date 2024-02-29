@@ -76,3 +76,13 @@ prop.test(anthro, natural+anthro+unknown,
           conf.level = 0.95,
           correct = TRUE) #this line makes the test non-parametric to account for small sample size
 #This test indicates that the proportion of anthropogenic injuries is significantly less than 0.5.
+
+#Graphing relationships between variables:
+#Categorical x Categorical->stacked bar plot- can change the filling of each section
+  #Can use this to show BodyPart and Type of Injury, Type of Injury and Source, and Source and BodyPart
+
+#Statistical Analysis:
+  #t-test: normal distribution of data
+  #wilcox test: non-nomral distribution of data->can do this to be safe
+  #look at one specific variable and if there are more anthro or natural injuries
+  #can also use this to look at all of the injuries as a whole
