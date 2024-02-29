@@ -57,3 +57,22 @@ InjuriesPerTurtle.plot <- barplot(InjuriesPerTurtleTable)
 #Relationships between variables:
 
 #Probability and Significance tests:
+
+#Number of natural injuries
+natural <- length(df3$Nature[df3$Nature==2])
+#Number of anthropogenic injuries
+anthro <- length(df3$Nature[df3$Nature==1])
+#Number of unknown injuries
+unknown <- length(df3$Nature[df3$Nature==4])
+
+
+?prop.test
+anthro
+natural+anthro+unknown
+
+#1-sample proportions test with Yates continuity correction
+prop.test(anthro, natural+anthro+unknown,
+          alternative = "two.sided",
+          conf.level = 0.95,
+          correct = TRUE) #this line makes the test non-parametric to account for small sample size
+#This test indicates that the proportion of anthropogenic injuries is significantly less than 0.5.
