@@ -15,6 +15,8 @@ df3 <- read.csv("GreenSeaTurtleInjuries.csv", h=TRUE)
 #filter out duplicates:
 df3 <- df3 %>% distinct(ID, .keep_all = TRUE)
 
+read.table()
+
 #making Nature a factor:
 class(df3$Nature)
 
@@ -29,6 +31,11 @@ InjuryTypeTbale <- table(df3$InjuryType)
 InjuriesPerTurtleTable <- table(df3$InjuriesPerTurtle)
 InjuryStageTable <- table(df3$InjuryStage)
 SourceofInjuryTable <- table(df3$Source)
+<<<<<<< HEAD
+SourceofInjuryTable
+InjuryTypeTbale
+=======
+>>>>>>> e2dd9d371d0ce8f776a6ff1d415c7e3bd706b280
 #Basic data plots:
 
 BodyPart.plot <- barplot(BodyPartTable)
@@ -87,3 +94,10 @@ prop.test(anthro, natural+anthro+unknown,
   #wilcox test: non-nomral distribution of data->can do this to be safe
   #look at one specific variable and if there are more anthro or natural injuries
   #can also use this to look at all of the injuries as a whole
+
+#Unknown vs. Anthropogneic
+#Unknown from natural
+#and anthropogenic from natural -> exclude unknown when looking at statisticl anaylisis
+#make number for all source categories
+
+#fix graphs
