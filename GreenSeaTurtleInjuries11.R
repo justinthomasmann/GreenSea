@@ -11,7 +11,7 @@ library(ggplot2)
 library(tidyverse); theme_set(theme_classic())
 
 #Import Data: (called df3)
-df3 <- read.csv("GreenSeaTurtleInjuries2.csv", h=TRUE)
+df3 <- read.csv("GreenSeaTurtleInjuries.csv", h=TRUE)
 #filter out duplicates:
 df3 <- df3 %>% distinct(ID, .keep_all = TRUE)
 
@@ -75,7 +75,7 @@ natural+anthro+unknown
 prop.test(anthro, natural+anthro+unknown,
           alternative = "two.sided",
           conf.level = 0.95,
-          correct = TRUE) #this line makes the test non-parametric to account for small sample size
+          correct = TRUE) #this line makes the test non-parametric to account for small sample size (N<30)
 #This test indicates that the proportion of anthropogenic injuries is significantly less than 0.5.
 
 #Graphing relationships between variables:
