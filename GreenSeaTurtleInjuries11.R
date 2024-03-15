@@ -11,7 +11,7 @@ library(ggplot2)
 library(tidyverse); theme_set(theme_classic())
 
 #Import Data: (called df3)
-df3 <- read.csv("GreenSeaTurtleInjuries.csv", h=TRUE)
+df3 <- read.csv("GreenSeaTurtleInjuries2.csv", h=TRUE)
 #filter out duplicates:
 df3 <- df3 %>% distinct(ID, .keep_all = TRUE)
 
@@ -19,6 +19,8 @@ df3 <- df3 %>% distinct(ID, .keep_all = TRUE)
 class(df3$Nature)
 
 df3$Nature <- as.factor(df3$Nature)
+df3$Source <- gsub(" ", "", df3$Source)
+df3$Source <- as.factor(df3$Source)
 
 #Table for each factor
 NatureTable <- table(df3$Nature)
@@ -27,7 +29,6 @@ InjuryTypeTbale <- table(df3$InjuryType)
 InjuriesPerTurtleTable <- table(df3$InjuriesPerTurtle)
 InjuryStageTable <- table(df3$InjuryStage)
 SourceofInjuryTable <- table(df3$Source)
-
 #Basic data plots:
 
 BodyPart.plot <- barplot(BodyPartTable)

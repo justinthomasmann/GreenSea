@@ -2,7 +2,7 @@ Name,ID,InjuriesPerTurtle,Date,CCLmin,CCLmax,BodyPart ,InjuryType ,InjuryStage,N
 Beans ,1178,0,5/17/2019,114.9,115.5,NA,NA,NA,4,NA
 Kale,1192,1,6/13/2019,102.5,103.4,CAR,DEP,Healded/Scar,2,Shark
 Avocado ,1225,0,6/21/2019,101.4,101.5,NA,NA,NA,4,NA
-Athena ,1187,1,5/29/2019,105,,CAR,AMP,Healed/scar,3,
+Athena ,1187,1,5/29/2019,105,,CAR,AMP,Healed/scar,3,NA
 Broccoli,1189,0,5/30/2019,102.7,103.1,NA,NA,NA,4,NA
 Pickles,1342,0,7/3/2019,109.2,109.2,NA,NA,NA,4,NA
 Argula ,1343,0,7/3/2019,102.8,103.3,NA,NA,NA,4,NA
@@ -15,7 +15,7 @@ Edamame,1480,0,7/16/2019,104.2,104.4,NA,NA,NA,4,NA
 Jalapeno,1514,0,7/18/2019,105.8,105.8,NA,NA,NA,4,NA
 Zucchini ,1515,0,7/19/2019,98.1,98.6,NA,NA,NA,4,NA
 Olive ,1516,0,7/19/2019,111.7,112.1,NA,NA,NA,4,NA
-Basil ,1517,1,7/19/2019,113.4,114,CAR,AMP,Healed/Scar,3,
+Basil ,1517,1,7/19/2019,113.4,114,CAR,AMP,Healed/Scar,3,NA
 Asparagus ,1485,0,6/29/2019,,,NA,NA,NA,4,NA
 Cilantro ,1519,0,7/25/2019,101.5,102.6,NA,NA,NA,4,NA
 Apple ,1520,0,7/25/2019,100,101,NA,NA,NA,4,NA
@@ -68,8 +68,8 @@ Cheryl,1631,1,6/10/2020,109,109.5,MULTI,Unknown,Unknown,2,Behavioral
 Green,931,0,6/11/2020,101,103,NA,NA,NA,4,NA
 Firefly,1634,0,6/10/2020,93,96.2,NA,NA,NA,4,NA
 Mastronardi,1635,1,6/12/2020,105.2,106,CAR,DEP,Unknown,2,Behavioral
-Uno,1638,4,6/14/2020,115.5,115.9,RFF,AMP,Healed/scar,3,
-Uno 2,1638,,,,,RRF,AMP,Healed/scar,3,
+Uno,1638,4,6/14/2020,115.5,115.9,RFF,AMP,Healed/scar,3,NA
+Uno 2,1638,,,,,RRF,AMP,Healed/scar,3,NA
 Uno 3,1638,,,,,CAR,DEP,Healed/scar,1,FSH
 Uno 4,1638,,,,,LFF,LAC,Healed/scar,1,FSH
 Terry Anne,1094,0,6/16/2020,103.4,104.8,NA,NA,NA,4,NA
@@ -79,14 +79,14 @@ Froggy (2),1607,0,6/19/2020,104.9,105.6,NA,NA,NA,4,NA
 Seafoam (2),1620,1,6/18/2020,,,CAR,LAC,Fresh/not bleeding,1,Boat
 Matona,1648,0,6/18/2020,106.6,106.7,NA,NA,NA,4,NA
 Kermit,1650,0,6/19/2020,103.5,103.9,NA,NA,NA,4,NA
-Peg,1651,1,6/19/2020,99.1,99.2,LRF,AMP,Healed/scar,3,
+Peg,1651,1,6/19/2020,99.1,99.2,LRF,AMP,Healed/scar,3,NA
 Verde (2),942,0,6/22/2020,117,117,NA,NA,NA,4,NA
 Ginger,1654,0,6/19/2020,110.3,110.9,NA,NA,NA,4,NA
 Wheezy ,1635,0,6/20/2020,108.9,109.4,NA,NA,NA,4,NA
 Bleu,1656,0,6/19/2020,98.2,98.7,NA,NA,NA,4,NA
 Yelleauy ,1663,1,6/22/2020,114.4,114.4,MULTI,LAC,Unknown,2,Behavioral
 Yasmine ,1669,0,6/22/2020,100.4,101.8,NA,NA,NA,4,NA
-Monticello ,1673,1,6/23/2020,123,123.5,CAR,NCH,Unknown,3,
+Monticello ,1673,1,6/23/2020,123,123.5,CAR,NCH,Unknown,3,NA
 Itchy ,1677,0,6/23/2020,100.4,100,NA,NA,NA,4,NA
 Scratchy ,1678,0,6/23/2020,84.9,85.7,NA,NA,NA,4,NA
 Ale,1688,0,6/24/2020,102.3,102.6,NA,NA,NA,4,NA
@@ -98,12 +98,12 @@ Collard,1712,0,6/29/2020,96.3,96.6,NA,NA,NA,4,NA
 Darrea,1717,0,6/30/2020,115,113.6,NA,NA,NA,4,NA
 Sapphine,1719,0,6/30/2020,107.7,108.4,NA,NA,NA,4,NA
 Lazy ,1731,1,7/1/2020,101.7,102.2,CAR,LAC,Healing/yellow,2,Behavioral
-Itchy (2),1677,0,7/2/2020,,,,,,,
+Itchy (2),1677,0,7/2/2020,,,,,,,NA
 Flo Rida,1748,0,7/13/2020,103.4,103.9,NA,NA,NA,4,NA
-Carola (2),1630,0,7/13/2020,,,,,,4,
+Carola (2),1630,0,7/13/2020,,,,,,4,NA
 Patrick ,1757,0,7/14/2020,104.7,105,NA,NA,NA,4,NA
 Parakeet ,1766,0,7/15/2020,107.8,108.3,NA,NA,NA,4,NA
-Froggy (2),1607,0,7/28/2020,105.8,,,,,,
+Froggy (2),1607,0,7/28/2020,105.8,,,,,,NA
 Ulna,1781,1,7/29/2020,100,100.9,CAR,DEP,Helead/scar,3,Unknown 
 Shamrock ,1784,1,7/30/2020,109,109,CAR,LAC,Healing/yellow,2,Behavioral
 Ireland,1785,1,7/30/2020,101.5,102,CAR,LAC,Healing/yellow ,2,Behavioral
@@ -145,7 +145,7 @@ Vacutanier,2051,0,7/15/2021,108.5,109,NA,NA,NA,4,NA
 Charel,2057,0,7/16/2021,94.4,95,NA,NA,NA,4,NA
 Fin,2059,0,7/17/2021,103,103.5,NA,NA,NA,4,NA
 Grape,2063,0,7/19/2021,90,90.2,NA,NA,NA,4,NA
-Pear,1550,0,7/19/2021,,,,,,4,
+Pear,1550,0,7/19/2021,,,,,,4,NA
 Skeeter,2071,0,7/20/2021,109,109.2,NA,NA,NA,4,NA
 Savoy,2072,0,7/21/2021,103.1,103.4,NA,NA,NA,4,NA
 Dill,2073,1,7/21/2021,107.5,108.5,CAR,LAC,Healed/scar,1,Boat
@@ -228,7 +228,7 @@ Goop,2288,0,8/3/2022,110.3,111,NA,NA,NA,4,NA
 Slime ,2289,0,8/3/2022,108.4,108.5,NA,NA,NA,4,NA
 Muriel,2290,0,8/3/2022,104,104.2,NA,NA,NA,4,NA
 Lantern,2291,0,8/4/2022,100.5,101,NA,NA,NA,4,NA
-Muriel (2),2290,0,,,,,,,,
+Muriel (2),2290,0,,,,,,,,NA
 Pistachio ,2292,3,8/4/2022,97.4,97.4,CAR,CAR,Healed/scar,3,Unknown
 Pistachio 2,2292,,,,,CAR,CAR,Healed/scar,3,Unknown
 ,2292,,,,,CAR,CAR,Healed/scar,1,Boat
@@ -295,8 +295,8 @@ Millie ,2416,1,7/12/2023,96.9,97.5,RRF,FLP,Stage 5 (scar),3,Unknown
 Ella ,2417,0,7/13/2023,103.6,104,NA,NA,NA,4,NA
 Sadie,2418,0,7/13/2023,106.7,107.3,NA,NA,NA,4,NA
 Colton ,2421,0,7/16/2023,106.8,107.3,NA,NA,NA,4,NA
-Effed ,2424,3,7/6/2023,103.3,103.7,RRF,Unknown ,,3,
-Effed 2,2424,,,,,LRF,Unknown ,,3,
+Effed ,2424,3,7/6/2023,103.3,103.7,RRF,Unknown ,,3,NA
+Effed 2,2424,,,,,LRF,Unknown ,,3,NA
 Effed 3,2424,,,,,CAR,LAC,Stage 5 (scar),3,Unknown 
 Tarragen ,2422,1,7/16/2023,104.2,104.5,LRF,FLP,Stage 5 (scar),3,Unknown 
 Christina ,721,1,7/18/2023,109.4,109.6,RRF,AMP,Stage 5 (scar),3,Unknown 
