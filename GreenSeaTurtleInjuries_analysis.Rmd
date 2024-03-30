@@ -30,10 +30,34 @@ df$Source <- as.factor(df$Source)
 levels(df$Source)
 ```
 
-```{r Nature plot}
-Nature.plot <- ggplot(data=subset(df, !is.na(Source)), aes(x=Source))+
-  geom_bar()+
+```{r Nature.plot}
+Nature.plot <- ggplot(data=subset(df, !is.na(Nature) & Nature != 4), aes(x=Nature))+
+  geom_bar(fill = "red")+
+  labs(x = "Nature of injury", 
+       y = "Count")+
+  scale_x_discrete(labels = c("1" = "Anthropogenic",
+                              "2" = "Natural",
+                              "3" = "Unknown"))
+  theme(axis.text.x = element_text(size = 12),
+          axis.title.x = element_text(size = 14),
+          axis.text.y = element_text(size = 12),
+          axis.title.y = element_text(size = 14),
+          plot.margin = margin(15,15,15,15))
 Nature.plot
+```
+
+
+```{r Source.plot}
+Source.plot <- ggplot(data=subset(df, !is.na(Source) & df$Source != "MS"), aes(x=Source))+
+  geom_bar(fill = "red")+
+  labs(x = "Injury source", 
+       y = "Count")+
+  theme(axis.text.x = element_text(size = 12),
+          axis.title.x = element_text(size = 14),
+          axis.text.y = element_text(size = 12),
+          axis.title.y = element_text(size = 14),
+          plot.margin = margin(15,15,15,15))
+Source.plot
 ```
 
 
