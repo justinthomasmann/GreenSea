@@ -2,7 +2,9 @@
 title: "Green Sea Turtle Injuries"
 author: "Justin Mann"
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r libraries}
@@ -48,7 +50,7 @@ Nature.plot <- ggplot(data=subset(df, !is.na(Nature) & Nature != 4), aes(x=Natur
        y = "Count")+
   scale_x_discrete(labels = c("1" = "Anthropogenic",
                               "2" = "Natural",
-                              "3" = "Unknown"))
+                              "3" = "Unknown"))+
   theme(axis.text.x = element_text(size = 12),
           axis.title.x = element_text(size = 14),
           axis.text.y = element_text(size = 12),
@@ -68,20 +70,12 @@ natural <- length(df$Nature[df$Nature==2])
 unknown <- length(df$Nature[df$Nature==3])
 ```
 
-
 ```{r injury nature comparison}
-#1-sample proportions test with Yates continuity correction
-prop.test(anthro, natural+anthro,
-          alternative = "two.sided",
-          conf.level = 0.95,
-          correct = FALSE) #this line makes the test non-parametric to account for small sample size (N<30)
-
-
 anthro_nat.ctable <- rbind(c(12,23), c(23,12))
-fisher.test(nat.contable)
-chisq.test(anthro_nat.ctable, correct = FALSE)
+#chisq.test(anthro_nat.ctable, correct = FALSE)
+fisher.test(anthro_nat.ctable)
 ```
-```{r }
+```{r post hoc source}
 xtab <- as.table(rbind(
   c(26, 25, 21, 34, 34),
   c(9, 10, 14, 1, 1)
