@@ -7,6 +7,7 @@ output: html_document
 
 ```{r libraries}
 library(tidyverse); theme_set(theme_classic())
+library(rstatix)
 ```
 
 ```{r data}
@@ -68,26 +69,29 @@ unknown <- length(df$Nature[df$Nature==3])
 ```
 
 
-```{r unknown prop.test}
-#Anthropogenic
-#1-sample proportions test with Yates continuity correction
-prop.test(unknown, natural+anthro+unknown,
-          alternative = "two.sided",
-          conf.level = 0.95,
-          correct = TRUE) #this line makes the test non-parametric to account for small sample size (N<30)
-
-#This test indicates that the proportion of anthropogenic injuries is significantly less than 0.5.
-```
-
-```{r natural prop.test}
-#Anthropogenic
+```{r injury nature comparison}
 #1-sample proportions test with Yates continuity correction
 prop.test(anthro, natural+anthro,
           alternative = "two.sided",
           conf.level = 0.95,
-          correct = TRUE) #this line makes the test non-parametric to account for small sample size (N<30)
+          correct = FALSE) #this line makes the test non-parametric to account for small sample size (N<30)
 
-#This test indicates that the proportion of anthropogenic injuries is significantly less than 0.5.
+
+anthro_nat.ctable <- rbind(c(12,23), c(23,12))
+fisher.test(nat.contable)
+chisq.test(anthro_nat.ctable, correct = FALSE)
+```
+```{r }
+xtab <- as.table(rbind(
+  c(26, 25, 21, 34, 34),
+  c(9, 10, 14, 1, 1)
+))
+dimnames(xtab) <- list(
+  Injured = c("No", "Yes"),
+  Source = c("shark", "boat", "behavioral", "hook", "entangle")
+  )
+
+pairwise_fisher_test(xtab)
 ```
 
 ```{r Source.plot}
